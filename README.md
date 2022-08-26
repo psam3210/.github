@@ -4,7 +4,7 @@ Thursdays, 12:10 pm – 2:50 pm
 Parsons 2 W 13th, Room 1201
 
 **Eric Li**  
-lie@newschool.edu
+[lie@newschool.edu](mailto:lie@newschool.edu)
 
 **Links**
 - [Assignments](#)
