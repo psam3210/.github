@@ -1,4 +1,3 @@
-# CD Studio: JavaScript (PSAM3210)
 ![Plugin icon - 2](https://user-images.githubusercontent.com/207651/186977711-6ffcf270-021a-45ab-88ea-476c54c90643.png)
 
 Thursdays, 12:10 pm – 2:50 pm  
