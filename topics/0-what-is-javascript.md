@@ -1,1 +1,1 @@
-# What is JavaScript, anyways?
+## What is JavaScript, anyways?

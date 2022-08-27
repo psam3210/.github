@@ -1,4 +1,4 @@
-# Assignments
+## Assignments
 Assignments for this course will appear below. 
 
 **Note that future assignments are subject to change!**
