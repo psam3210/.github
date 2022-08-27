@@ -7,8 +7,8 @@ Parsons 2 W 13th, Room 1201
 [lie@newschool.edu](mailto:lie@newschool.edu)
 
 **Links**
-- [Assignments](/assignments)
 - [Schedule](/schedule)
+- [Assignments](/assignments)
 - [Topics](/topics/)
 
 **External Links**
@@ -64,7 +64,7 @@ You will be graded on correctness, code quality and style, and creativity. The a
 
 Assignments 1 and 2 are individual assignments, whereas 3, 4 and 5 are pair assignments. Students have the option of working in pairs or alone. If students choose to work as pairs, they will submit one assignment and both students will share the same grade. Assignments will be evaluated based on correctness and code quality.
 
-The final project will follow a traditional design and development lifecycle that one may see in the real world. Students will be expected to define a product, sketch on and user test their designs, and finally build their product as a functioning web app. They will be evaluated on completion, creativity, and quality of work. Like the latter assignments, students may again choose to work with a partner. If they do, then students will share the same grade.
+The final project will involve both design and software development. Students are expected to define a unique software that represents original thinking, sketch on and collect feedback on their designs, and finally build that software as a functioning website. They will be evaluated on completion, creativity, and quality of work. Like the latter assignments, students may again choose to work with a partner. If they do, then students will share the same grade.
 
 Grading, participation, attendance, academic honesty, and other CD program policies can be found [here](https://docs.google.com/document/d/1u358io8doX_SVVMGqIM_oH5V0OIccneYu4Ww-uE55QM/edit).
 
