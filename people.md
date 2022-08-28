@@ -4,7 +4,7 @@
 
 <details><summary>Eric Li</summary>
 
-Eric is a [designer and software developer](https://eric.young.li/) based in Brooklyn, NY. Most recently, he worked at MoMA and is currently an independent practitioner. He also [writes sporadically](https://www.moma.org/magazine/articles/677) and teaches here at Parsons. Eric’s favorite HTML element is `<iframe>`.
+Eric (he/him) is a [designer and software developer](https://eric.young.li/) based in Brooklyn, NY. Most recently, he worked at MoMA and is currently an independent practitioner. He also [writes sporadically](https://www.moma.org/magazine/articles/677) and teaches here at Parsons. Eric’s favorite HTML element is `<iframe>`.
 
 </details>
 
