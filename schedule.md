@@ -72,34 +72,6 @@
           <strong>3</strong><br>
           Sept 15
         </p>
-      </td>
-      <td>
-        <p>
-          <strong>Discuss</strong><br>
-          What is Code?
-        </p>
-        <p>
-          <strong>Lecture</strong><br>
-          JavaScript Basics
-        </p>
-        <p>
-          <strong>Demo</strong><br>
-          Data types, type casting, and conditionals
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Homework</strong><br>
-          A1: Hello, World!
-        </p>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <p>
-          <strong>4</strong><br>
-          Sept 22
-        </p>
         <p>
           <strong>Due</strong><br>
           A1
@@ -125,8 +97,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>5</strong><br>
-          Sept 29
+          <strong>4</strong><br>
+          Sept 22
         </p>
         <p>
           <strong>Due</strong><br>
