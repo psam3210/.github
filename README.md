@@ -47,7 +47,7 @@ By the end of the semester, students should be able to:
 ## Community Agreement
 To be completed in class.
 
-## Grading and Policies
+## Grading
 
 |Criteria|%|
 |---|---|
@@ -66,9 +66,49 @@ Assignments 1 and 2 are individual assignments, whereas 3, 4 and 5 are pair assi
 
 The final project will involve both design and software development. Students are expected to define a unique software that represents original thinking, sketch on and collect feedback on their designs, and finally build that software as a functioning website. They will be evaluated on completion, creativity, and quality of work. Like the latter assignments, students may again choose to work with a partner. If they do, then students will share the same grade.
 
+
+## Policies
+
 Grading, participation, attendance, academic honesty, and other CD program policies can be found [here](https://docs.google.com/document/d/1u358io8doX_SVVMGqIM_oH5V0OIccneYu4Ww-uE55QM/edit).
 
-### A Note on Code Plagiarism
-You may occasionally find code or similar solutions to assignments online for this course. The copying or adapting of any code beyond the course material (lectures, exercises, demos) without attribution is not allowed under any circumstances. If you do use code from class, please attribute it accordingly. There is zero tolerance for any sort of plagiarism, which ranges from “verbatim copying” (e.g., cutting-and-pasting code) to “thorough paraphrasing” (e.g., changing variable names or rearranging code). 
 
-Any violation of this policy will result in an automatic failure of the course. Refer to the **Academic Honesty and Integrity** part of the CD [program policies](https://docs.google.com/document/d/1u358io8doX_SVVMGqIM_oH5V0OIccneYu4Ww-uE55QM/edit?usp=sharing) for more information. Additional guidelines for including code written by others can be found in MIT’s [student integrity handbook](https://integrity.mit.edu/handbook/writing-code).
+### Inclusion
+
+My intent is to respect and give forum to a range of perspectives and backgrounds, including culture, race, gender, sexual orientation, socioeconomic status, disability, and age. In instances where I am personally not qualified to speak from a specific perspective, students are encouraged to explore this area themselves. And please let me know if there are ways that the course can better serve these goals.
+
+
+### Engagement
+
+Students are expected to actively and passionately participate in this course. This means more than showing up and turning things in on time. Beyond that baseline, students should be curious, prepared, thoughtful, vocal, and intentional throughout the course. They should make us understand why they are here, and demonstrate that they care about themselves, their work, and each other.
+
+
+### Office hours
+
+I will have limited availability outside of our class time, and won’t keep scheduled “office hours.” Students should not rely on me to solve specific design or technical problems. Their first resource should be themselves, then the course site and its materials, and then each other. If there are still questions—such as logistical or content ones—students can message me on Slack, and I will respond when I can. But this should never be a bottleneck; all of this works better when not done at the last minute.
+
+
+### Additional technical help
+
+For more specific technical instruction and questions, Parsons has dedicated CD-program tutors available to help students with HTML, CSS, and JavaScript, as well as offering general design critiques and feedback. The drop-in schedules are available in the [CD@Parsons](https://cdparsons.glideapp.io) app under “Make & Remake.” 
+
+As CD-program tutors are available only a limited number of hours per week, it is advisable to start on your projects early and seek help early to avoid the usual end of project/semester rush for additional help.
+
+
+### Code plagiarism
+
+Students may find code similar to our exercises or projects elsewhere online. But the copying or adapting of any code beyond our provided course material (lectures, exercises, demos) without attribution is not allowed under any circumstances. If adapting, with attribution, students must explain the usage and demonstrate an understanding of how it works. There is zero tolerance for any sort of plagiarism—which ranges from “verbatim copying” (cutting-and-pasting code) to “thorough paraphrasing” (changing names or rearranging code). Students should also review the _Academic Honesty and Integrity_ policies.
+
+
+### Pairing
+
+On certain assignments you are allowed to pair with a partner. This is a form of programming called pair programming. If you choose to pair with a partner, you must both be present anytime the assignment is being worked on. One partner will "drive" and write the code, while the other is the "navigator" and will review the code and ask questions. You must swap roles every 30 minutes. If you decide to pair, let me know who you are partnering with over Slack prior to submitting the assignment.
+
+
+### Recording sessions
+
+Screen recordings of our sessions will be made available for students to reference later. As these will include the students and their work, the recordings will be stored on Google Drive and made available only to New School email users. 
+
+
+### Slack
+
+We will be using Slack as our primary form of communication with each other. There are channels for general questions, as well as for each individual assignment and students are encouraged to use Slack as an open forum for communicating with each other and with myself. Students can also use the OpenSay app to anonymously ask questions.
