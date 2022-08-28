@@ -263,34 +263,6 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>9</strong><br>
-          Oct 27
-        </p>
-        <p>
-          <strong>Due</strong><br>
-          Final Project Proposals
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Lecture</strong><br>
-          MVC and Vue
-        </p>
-        <p>
-          <strong>Demo</strong><br>
-          Setting up Vue, Props and Components
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Homework</strong><br>
-          Sketches for Final Project
-        </p>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <p>
           <strong>10</strong><br>
           Nov 3
         </p>
