@@ -2,70 +2,36 @@
 
 **Instructor**
 
-<details><summary>Eric Li</summary>
-
-Eric (he/him) is a [designer and software developer](https://eric.young.li/) based in Brooklyn, NY. Most recently, he worked at MoMA and is currently an independent practitioner. He also [writes sporadically](https://www.moma.org/magazine/articles/677) and teaches here at Parsons. Eric’s favorite HTML element is `<iframe>`.
-
-</details>
+- **Eric Li** (he/him) is a [designer and software developer](https://eric.young.li/) based in Brooklyn, NY. Most recently, he worked at MoMA and is currently an independent practitioner. He also [writes sporadically](https://www.moma.org/magazine/articles/677) and teaches here at Parsons. Eric’s favorite HTML element is `iframe`.
 
 **Students**
 
-<details><summary>Katerina Bakatselou</summary>
+- Katerina Bakatselou
 
-</details>
+- Yerin Hur
 
-<details><summary>Yerin Hur</summary>
+- Chris Kim
 
-</details>
+- Hope Kim
 
-<details><summary>Chris Kim</summary>
+- Hoi Man Kwok 
 
-</details>
+- Selina Liu
 
-<details><summary>Hope Kim</summary>
+- Rosie Mai
 
-</details>
+- Citra Luna Martha
 
-<details><summary>Hoi Man Kwok </summary>
+- Graeme Anthony Mounsey
 
-</details>
+- Khe Nguyen
 
-<details><summary>Selina Liu</summary>
+- Christopher Panicker
 
-</details>
+- Anaïs Pyrczak
 
-<details><summary>Rosie Mai</summary>
+- Roberta Daniella Ramos Bonnard
 
-</details>
+- Alex Silva
 
-<details><summary>Citra Luna Martha</summary>
-
-</details>
-
-<details><summary>Graeme Anthony Mounsey</summary>
-
-</details>
-
-<details><summary>Khe Nguyen</summary>
-
-</details>
-
-<details><summary>Christopher Panicker</summary>
-
-</details>
-
-<details><summary>Anaïs Pyrczak</summary>
-
-</details>
-
-<details><summary>Roberta Daniella Ramos Bonnard</summary>
-
-</details>
-
-<details><summary>Alex Silva</summary>
-
-</details>
-
-<details><summary>Yi Wang</summary>
-
-</details>
+- Yi Wang
