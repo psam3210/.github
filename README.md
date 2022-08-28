@@ -3,35 +3,16 @@
 Thursdays, 12:10 pm – 2:50 pm  
 Parsons 2 W 13th, Room 1201
 
-**Eric Li**  
-[lie@newschool.edu](mailto:lie@newschool.edu)
-
 **Links**
 - [Schedule](/schedule)
 - [Assignments](/assignments)
 - [Topics](/topics/)
+- [People](/people)
 
 **External Links**
 - [Slack](https://f22cdstudiojavascript.slack.com/)
 - [Zoom Room](https://NewSchool.zoom.us/j/92107063249?pwd=UXV0Q2hFVS9BTURhUFQzUER2WUR5dz09)
 - [Syllabus](https://docs.google.com/document/d/1K5fLvBNo-sZWHB_io8dgejSMjkcMhO2hrhsK_sJQJtM/edit?usp=sharing)
-
-**Participants**
-- Katerina Bakatselou
-- Yerin Hur
-- Chris Kim
-- Hope Kim
-- Hoi Man Kwok 
-- Selina Liu
-- Rosie Mai
-- Citra Luna Martha
-- Graeme Anthony Mounsey
-- Khe Nguyen
-- Christopher Panicker
-- Anaïs Pyrczak
-- Roberta Daniella Ramos Bonnard
-- Alex Silva
-- Yi Wang
 
 ## Description
 This is a computer science class first, and a design class second. We will focus on fundamentals of computing through the lens of JavaScript and its particulars before diving into the creation of a web based application using Vue. Students will learn about computing paradigms such as objects and arrays, functions, data structures, and algorithms. We will review what a modern JS stack looks like and how to call an API, with the final project being a web app that students will design and build. This is a fast paced course and students are expected to dedicate a good amount of time outside of class to assignments from this class.
