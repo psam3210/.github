@@ -10,6 +10,7 @@ Parsons 2 W 13th, Room 1201
 - [People](/people)
 
 **External Links**
+- [GitHub](https://github.com/f22-psam3210)
 - [Slack](https://f22cdstudiojavascript.slack.com/)
 - [Zoom Room](https://NewSchool.zoom.us/j/92107063249?pwd=UXV0Q2hFVS9BTURhUFQzUER2WUR5dz09)
 - [Syllabus](https://docs.google.com/document/d/1K5fLvBNo-sZWHB_io8dgejSMjkcMhO2hrhsK_sJQJtM/edit?usp=sharing)
