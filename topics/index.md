@@ -1,3 +1,3 @@
 ## Topics 
 
-- [What is JavaScript, anyways?](./0-what-is-javascript)
+- [What is JavaScript, anyways?](/topics/0-what-is-javascript/)
