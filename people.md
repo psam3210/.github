@@ -26,7 +26,7 @@
 
 - Khe Nguyen
 
-- Christopher Panicker
+- Christopher Chris :) Panicker (He/Him)
 
 - Anaïs Pyrczak
 
