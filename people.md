@@ -35,3 +35,5 @@
 - Alex Silva
 
 - Yi Wang
+
+- Sora Wong
