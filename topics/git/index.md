@@ -22,7 +22,7 @@ In this brief tutorial, we’ll go over creating a repository, and committing so
 <br><br>
 <figure align="center">
   <img src="new-repo.png">
-  <figcaption>Making a new repo in GitHub</a></figcaption>
+  <figcaption>Making a new repo in GitHub</figcaption>
 </figure>
 <br><br>
 
@@ -35,7 +35,7 @@ On this page, set the repository name to something creative or unimaginative, li
 <br><br>
 <figure align="center">
   <img src="clone.png">
-  <figcaption>Click <strong>Open with GitHub Desktop</strong></a></figcaption>
+  <figcaption>Click <strong>Open with GitHub Desktop</strong></figcaption>
 </figure>
 <br><br>
 
