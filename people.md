@@ -12,7 +12,7 @@
 
 - Chris Kim
 
-- Hope Kim
+- Hope Kim (she/her) Communication Design major and Film Production minor
 
 - Hoi Man Kwok 
 
