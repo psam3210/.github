@@ -31,7 +31,7 @@ By the end of the semester, students should be able to:
 - This is a safe space for anyone to ask questions about work. They are also able to ask questions anonymously on Slack.
 - Critiques should be taken in good faith. We’re all here to learn together and nothing should be taken personally.
 - Critiques should be more than surface level comments and directly engage with the work.
-
+- Feedback for code quality of assignments will be printed.
 
 ## Grading
 
