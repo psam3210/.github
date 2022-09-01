@@ -12,7 +12,7 @@
 
 - Chris Kim
 
-- Hope Kim
+- Hope Kim (she/her) Communication Design major and Film Production minor
 
 - Hoi Man Kwok 
 
@@ -26,9 +26,9 @@
 
 - Khe Nguyen
 
-- Christopher Panicker
+- Christopher Panicker "Chris" (He/Him)
 
-- Anaïs Pyrczak
+- Anaïs Pyrczak (she/her) is a CD major most interested in editorial design.
 
 - Roberta Daniella Ramos Bonnard
 
