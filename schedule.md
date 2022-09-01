@@ -13,6 +13,9 @@
           <strong>1</strong><br>
           Sept 1
         </p>
+        <p>
+          <strong><a href="https://drive.google.com/file/d/1xin6cU64a9IPDhh2nHk10bgMYgzPhlZd/view?usp=sharing">Recording</a></strong>
+        </p>
       </td>
       <td>
         <p>
