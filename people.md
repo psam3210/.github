@@ -34,6 +34,6 @@
 
 - Alex Silva
 
-- Yi Wang (Evelyn)
+- Yi Wang (EVELYN she/her) is a CD junior student, who currently intrested in 3d and computing technology to make things in my mind. Favorite HTML element: `br`
 
 - Sora Wong
