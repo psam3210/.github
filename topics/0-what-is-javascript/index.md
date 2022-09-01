@@ -1,7 +1,7 @@
 <br><br>
-<figure>
-  <img align="center" src="dependency_2x.png" width="500">
-  <figcaption align="center">Time to add JavaScript into the mix!</figcaption>
+<figure align="center">
+  <img src="dependency_2x.png" width="500">
+  <figcaption>Time to add JavaScript into the mix!</figcaption>
 </figure>
 <br><br>
 
@@ -11,10 +11,12 @@ Before we can get into this, let’s understand the shape of the web and how we 
 
 ## Let’s start with *the internet*
 
-<br><br><figure align="center">
+<br><br>
+<figure align="center">
   <img src="harvard.jpg">
   <figcaption><a href="https://en.wikipedia.org/wiki/Harvard_Computers#/media/File:Astronomer_Edward_Charles_Pickering%27s_Harvard_computers.jpg">The “Harvard Computers” in the late 1800s.</a></figcaption>
-</figure><br><br>
+</figure>
+<br><br>
 
 Before this time, the term *computer* usually referred to a person, not a machine—someone who would *compute* (solve) math problems.
 
@@ -22,27 +24,33 @@ It is worth noting these [were often women](https://www.nytimes.com/2019/02/13/m
 
 ## The first computers
 
-<br><br><figure align="center">
+<br><br>
+<figure align="center">
   <img src="lovelace.jpg">
   <figcaption>A diagram from Ada Lovelace’s first computer program.</figcaption>
-</figure><br><br>
+</figure>
+<br><br>
 
 Before the 1900s and the rise of the internet as we know it, [Charles Babbage](https://en.wikipedia.org/wiki/Charles_Babbage) invented the first mechanical computer, called the [Difference Engine](https://en.wikipedia.org/wiki/Difference_engine), in the 1820s. It’s purpose was to tabulate polynomial functions. While it was never completed, we often consider this to be the first example of a computer. Within this story, we also meet the first computer programmer, Ada Lovelace.
 
 [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) wrote a piece of software, or heuristic, for Babbage’s Difference Engine which calculated Bernoulli Numbers. Because it was the first published algorithm tailored specifically for a computer, Lovelace is often cited as a seminal figure in computer science history.
 
-<br><br><figure align="center">
+<br><br>
+<figure align="center">
   <img src="eniac.jpeg">
   <figcaption>ENIAC, the first programmable, electronic, general-purpose digital computer completed in 1945.</figcaption>
-</figure><br><br>
+</figure>
+<br><br>
 
 
 By the 1960s, computers were room-sized, institutional electronic machines—used by governments (the military), businesses, and universities. They were used to solve complex math problems and sort data, but were still very slow and didn’t communicate with one another.
 
-<br><br><figure align="center">
+<br><br>
+<figure align="center">
   <img src="networks.png">
   <figcaption>The original network, the telephone infrastructure, was heavily centralized via its switchboards and central hubs and therefore susceptible to catastrophic attack.</figcaption>
-</figure><br><br>
+</figure>
+<br><br>
 
 
 A catalyst in the formation of the internet was the Cold War. The threat of nuclear conflict spurred the US Defense Department to consider decentralized and distributed <nobr>networks—to</nobr> disseminate orders and information in the event of an attack (and ultimately, for retaliation).
