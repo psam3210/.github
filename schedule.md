@@ -32,6 +32,12 @@
           <strong>Read</strong><br>
           <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">What is Code?</a> by Paul Ford
         </p>
+        <p>
+          Clone the <a href="https://github.com/f22-psam3210/.github">class repository</a> and edit your entry in <code>people.md</code>. Include your preferred name, pronouns, and a brief introduction.
+        </p>
+        <p>
+          Fill out the course survey if you haven’t already, join our Slack, and sign up for GitHub.
+        </p>
       </td>
     </tr>
     <tr valign="top">
