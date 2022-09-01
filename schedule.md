@@ -26,10 +26,6 @@
           <strong>Lecture</strong><br>
           What is JavaScript, anyways?
         </p>
-        <p>
-          <strong>Demo</strong><br>
-          Hello, World, Git
-        </p>
       </td>
       <td>
         <p>
@@ -53,10 +49,6 @@
         <p>
           <strong>Lecture</strong><br>
           JavaScript Basics
-        </p>
-        <p>
-          <strong>Demo</strong><br>
-          Data types, type casting, and conditionals
         </p>
       </td>
       <td>
@@ -82,10 +74,6 @@
           <strong>Lecture</strong><br>
           Conditionals and loops
         </p>
-        <p>
-          <strong>Demo</strong><br>
-          Conditionals, loops, debugging
-        </p>
       </td>
       <td>
         <p>
@@ -110,10 +98,6 @@
           <strong>Lecture</strong><br>
           Arrays and Objects
         </p>
-        <p>
-          <strong>Demo</strong><br>
-          Arrays, objects, JSON
-        </p>
       </td>
       <td>
         <p>
@@ -128,6 +112,22 @@
           <strong>5</strong><br>
           Sept 29
         </p>
+      </td>
+      <td>
+        <p>
+          <strong>Lecture</strong><br>
+          Functions and classes
+        </p>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td>
+        <p>
+          <strong>6</strong><br>
+          Oct 6
+        </p>
         <p>
           <strong>Due</strong><br>
           A3
@@ -136,11 +136,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          I/O and Functions
-        </p>
-        <p>
-          <strong>Demo</strong><br>
-          Manipulationg DOM, functions
+          IO/DOM
         </p>
       </td>
       <td>
@@ -153,8 +149,24 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>6</strong><br>
-          Oct 6
+          <strong>7</strong><br>
+          Oct 13
+        </p>
+      </td>
+      <td>
+        <p>
+          <strong>Lecture</strong><br>
+          Functions and Modules
+        </p>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td>
+        <p>
+          <strong>8</strong><br>
+          Oct 20
         </p>
         <p>
           <strong>Due</strong><br>
@@ -164,11 +176,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Functions and Recursion
-        </p>
-        <p>
-          <strong>Demo</strong><br>
-          Functions (Fetch, Async), Recursion
+          Sorting and recursion
         </p>
       </td>
       <td>
@@ -181,8 +189,28 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>7</strong><br>
-          Oct 13
+          <strong>9</strong><br>
+          Oct 27
+        </p>
+      </td>
+      <td>
+        <p>
+          <strong>Lecture</strong><br>
+          A Modern JS Stack
+        </p>
+      </td>
+      <td>
+        <p>
+          <strong>Homework</strong><br>
+          Final project proposals
+        </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td>
+        <p>
+          <strong>10</strong><br>
+          Nov 3
         </p>
         <p>
           <strong>Due</strong><br>
@@ -192,7 +220,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Search and Sort Algorithms, Big O Notation
+          MVC and Vue
         </p>
         <p>
           <strong>Q&A</strong>
@@ -208,8 +236,12 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>8</strong><br>
-          Oct 20
+          <strong>11</strong><br>
+          Nov 10
+        </p>
+        <p>
+          <strong>Due</strong><br>
+          Project proposals
         </p>
       </td>
       <td>
@@ -218,104 +250,13 @@
         </p>
         <p>
           <strong>Lecture</strong><br>
-          Modern JS Stack
-        </p>
-        <p>
-          <strong>Demo</strong><br>
-          JS Modules, Webpack
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Homework</strong><br>
-          Final Project Proposals
-        </p>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <p>
-          <strong>9</strong><br>
-          Oct 27
-        </p>
-        <p>
-          <strong>Due</strong><br>
-          Final Project Proposals
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Lecture</strong><br>
-          MVC and Vue
-        </p>
-        <p>
-          <strong>Demo</strong><br>
-          Setting up Vue, Props and Components
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Homework</strong><br>
-          Sketches for Final Project
-        </p>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <p>
-          <strong>10</strong><br>
-          Nov 3
-        </p>
-        <p>
-          <strong>Due</strong><br>
-          First round of sketches
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Lecture</strong><br>
           Conditional Rendering and State
         </p>
-        <p>
-          <strong>Demo</strong><br>
-          Todo List
-        </p>
-        <p>
-          <strong>Review sketches</strong>
-        </p>
       </td>
       <td>
         <p>
           <strong>Homework</strong><br>
-          Interactive prototype of one sketch direction
-        </p>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <p>
-          <strong>11</strong><br>
-          Nov 10
-        </p>
-        <p>
-          <strong>Due</strong><br>
-          Interactive prototype
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Lecture</strong><br>
-          CRUD and Fetch
-        </p>
-        <p>
-          <strong>Demo</strong><br>
-          Local Storage, <code>fetch()</code>
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Homework</strong><br>
-          2 user tests of interactive prototype and begin coding
+          Final project sketches
         </p>
       </td>
     </tr>
@@ -327,17 +268,16 @@
         </p>
         <p>
           <strong>Due</strong><br>
-          User tests of interactive prototype
+          Sketches
         </p>
       </td>
       <td>
         <p>
-          <strong>Lecture</strong><br>
-          Web servers
+          <strong>Present sketches</strong>
         </p>
         <p>
-          <strong>Demo</strong><br>
-          Express
+          <strong>Lecture</strong><br>
+          CRUD and Web servers
         </p>
       </td>
       <td>
