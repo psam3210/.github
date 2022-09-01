@@ -34,6 +34,6 @@
 
 - Alex Silva
 
-- Yi Wang
+- Yi Wang (Evelyn)
 
 - Sora Wong
