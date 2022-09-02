@@ -8,7 +8,7 @@
 
 - Katerina Bakatselou
 
-- Yerin Hur
+- Yerin Hur (she/her) is a senior majoring in Communication Design. 
 
 - Chris Kim
 
