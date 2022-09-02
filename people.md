@@ -14,7 +14,7 @@
 
 - Hope Kim (she/her) Communication Design major and Film Production minor
 
-- Hoi Man Kwok 
+- Hoi Man Kwok
 
 - Selina Liu
 
@@ -22,7 +22,7 @@
 
 - Citra Luna Martha
 
-- Graeme Anthony Mounsey
+- Graeme Anthony Mounsey (he/him). Junior Communication Design Student, Japanese Minor. Excited to code!
 
 - Khe Nguyen
 
