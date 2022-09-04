@@ -16,7 +16,7 @@
 
 - Hoi Man Kwok 
 
-- Selina Liu
+- Selina Liu (she/her) is a senior in Communication Design.
 
 - Rosie Mai
 
