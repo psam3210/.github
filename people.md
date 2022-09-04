@@ -10,7 +10,7 @@
 
 - Yerin Hur (she/her) is a senior majoring in Communication Design. 
 
-- Chris Kim
+- **Chris Kim** (he/him) is an AAS Communication Design student with an interest in coding.
 
 - Hope Kim (she/her) Communication Design major and Film Production minor
 
