@@ -26,7 +26,7 @@
 
 - Khe Nguyen
 
-- Christopher Panicker "Chris" (He/Him)
+- Christopher Panicker "Chris" (he/him) Sr. CD Major, scrambling for thesis ideas.
 
 - Anaïs Pyrczak (she/her) is a CD major most interested in editorial design.
 
