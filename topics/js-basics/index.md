@@ -336,7 +336,7 @@ We can better understand how booleans can work together by using a truth tables:
 |`false`|`true` |
 
 
-|`a`    |`b`    |`a && b`|`a \|\| b`|
+|`a`    |`b`    |`a && b`|<code>a &#124;&#124; b</code>|
 |-------|-------|--------|--------|
 |`false`|`false`|`false` |`false` |
 |`false`|`true` |`false` |`true`  |
