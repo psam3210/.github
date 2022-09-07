@@ -399,11 +399,63 @@ if (x > y) { // Evaluates if x is greater than y.
 How would we simulate a coin flip? 
 
 ```js
-let flip = Math.random() // This is a built in function of the Math object. It generates a random number between 0 and 1.
+let flip = Math.random(); // This is a built in function of the Math object. It generates a random number between 0 and 1.
 
 if (flip < 0.5) {
   console.log('Heads!');
 } else {
   console.log('Tails!');
+}
+```
+
+### Error checks
+
+While you may use `if` statements during your code to do forking logic, one often use case is to do error checking before doing more complicated logic. For example, let’s say we have this block of code:
+
+```js
+let isDivisible = a % b === 0; 
+```
+
+`isDivisible` will be set to the result of `a % b` and checking if that value is `0`. Where could this go wrong? 
+
+Well, we presume that the value of `isDivisible` will be a boolean value (we often name variables that will be boolean by prepending them with `is` or `has`). But what happens if `b` is `0`? Well, it’ll evaluate to `NaN`, or not a number! We don’t want that, right? 
+
+```js
+let isDivisible;
+
+if (b === 0) {
+  isDivisible = false;
+} else {
+  isDivisible = a % b === 0;
+}
+```
+
+Ah, that’s better. Now if you try to divide by 0, instead of a weird error, we will set `isDivisible` to `false`, which makes sense.
+
+### The `if` and `else if` statement.
+
+`if` and `if-else` statements allow us to adjust the control flow of a program from linear to forking logic. `if` statements let us execute some additional code if a boolean statement is `true` and `if-else` statements let us execute two different blocks of code depending on if the condition is `true` or `false`. 
+
+What if we have additional conditions? Let’s say we want to do something depending on if someone is under 18, between 18 and 21, and over 21. Well, we can use an `else if` statement:
+
+```js
+if (age < 18) {
+  // Code for under 18
+} else if (age >= 18 && age < 21) {
+  // Code for over 18 and under 21
+} else {
+  // Code for over 21
+}
+```
+
+One thing to note is that if statements will only run the **first** code block where the boolean condition is true. So in this below statement, if `age=18` only the first block will run:
+
+```js
+if (age < 18) {
+  // Under 18
+} else if (age < 21) {
+  //  Under 21
+} else {
+  // 21 and over
 }
 ```
