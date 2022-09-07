@@ -18,7 +18,7 @@
 
 - Selina Liu (she/her) is a senior student majoring in Communication Design.
 
-- Rosie Mai
+- Rosie Mai  (she/her) is a CD junior, who is very into tpe design!
 
 - Citra Luna Martha
 
@@ -26,7 +26,7 @@
 
 - Khe Nguyen
 
-- Christopher Panicker "Chris" (He/Him)
+- Christopher Panicker "Chris" (he/him) Sr. CD Major, scrambling for thesis ideas.
 
 - Anaïs Pyrczak (she/her) is a CD major most interested in editorial design.
 
