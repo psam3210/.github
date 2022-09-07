@@ -27,7 +27,11 @@
         </p>
         <p>
           <strong>Lecture</strong><br>
-          What is JavaScript, anyways?
+          <a href="/topics/what-is-javascript/">What is JavaScript, anyways?</a>
+        </p>
+        <p>
+          <strong>Demo</strong><br>
+          <a href="/topics/git/">Git</a>
         </p>
       </td>
       <td>
@@ -57,13 +61,13 @@
         </p>
         <p>
           <strong>Lecture</strong><br>
-          JavaScript Basics
+          <a href="/topics/js-basics/">JavaScript Basics</a>
         </p>
       </td>
       <td>
         <p>
           <strong>Homework</strong><br>
-          A1: Hello, World!
+          <a href="/assignments#a1-hello-world">A1: Hello, World!</a>
         </p>
       </td>
     </tr>
