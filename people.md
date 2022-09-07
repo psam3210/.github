@@ -18,7 +18,7 @@
 
 - Selina Liu
 
-- Rosie Mai
+- Rosie Mai  (she/her) is a CD junior, who is very into tpe design!
 
 - Citra Luna Martha
 
