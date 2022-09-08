@@ -1,13 +1,7 @@
 ## Assignments
 Assignments for this course will appear below. 
 
-**Note that future assignments are subject to change!**
-
----
-
-## Upcoming Assignments
-
-### [A1: Hello, World](https://github.com/f22-psam3210/a1-hello-world)
+### [A1: Hello, World](https://classroom.github.com/a/SG4VeSYa)
 
 You’ll complete a series of 3 quick exercises intended to familiarize yourself with JavaScript and its syntax. These exercises are more detailed in the assignment `README`, but they are as follows:
 
@@ -16,6 +10,15 @@ You’ll complete a series of 3 quick exercises intended to familiarize yourself
 3. RGB to CMYK (2 pt)
 
 *You will learn: Git, JavaScript, Variables, Coding style, String interpolation, Console*
+
+**Due September 15**
+
+
+**Note that future assignments are subject to change!**
+
+---
+
+## Upcoming Assignments
 
 ### [A2: Loops](https://github.com/f22-psam3210/a2-loops)
 
