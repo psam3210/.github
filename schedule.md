@@ -53,6 +53,9 @@
           <strong>2</strong><br>
           Sept 8
         </p>
+        <p>
+          <strong><a href="https://drive.google.com/file/d/18x7FS7lTwr680uySHdRGNZBDVadH3cVM/view?usp=sharing">Recording</a></strong>
+        </p>
       </td>
       <td>
         <p>
