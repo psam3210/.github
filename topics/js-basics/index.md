@@ -263,7 +263,7 @@ Another thing we can do with strings is interpolate them. This is the practice o
 
 ```js
 let name = 'Eric'; // 'Eric'
-let greeting = `Hello, ${name}!`; 'Hello, Eric!'
+let greeting = `Hello, ${name}!`; // 'Hello, Eric!'
 ```
 
 ### Numbers
@@ -361,7 +361,7 @@ We can evaluate more complicated expressions containing variables to true or fal
 ```js
 age >= 18 // What does this evaluate to if age is 17, or 18?
 
-(year % 4) == 0 // What does this evaluate to if year is 2000, or 2002?
+(year % 4) === 0 // What does this evaluate to if year is 2000, or 2002?
 
 let myString = 'Hello';
 myString.length > 0 // What does this evaluate to?
@@ -371,7 +371,7 @@ myString.length > 0 // What does this evaluate to?
 
 ```js
 let isLeapYear = (year % 4 === 0) && (year % 100 !== 0);
-isLeapYear = isLeapYear || (year % 400 == 0);
+isLeapYear = isLeapYear || (year % 400 === 0);
 ```
 
 ---
