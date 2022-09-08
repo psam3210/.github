@@ -32,7 +32,7 @@
 
 - Roberta Daniella Ramos Bonnard
 
-- Alex Silva
+- **Alex Silva** (he/him) is a 3rd year CD student who enjoys coding a bit *too* much and also likes reading magazines. Favorite HTML element is easily `link`.
 
 - Yi Wang (EVELYN she/her) is a CD junior student, who currently intrested in 3d and computing technology to make things in my mind. Favorite HTML element: `br`
 
