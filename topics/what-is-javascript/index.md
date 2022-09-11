@@ -100,7 +100,7 @@ The web as we know it came 20 years later in 1989.
 
 <br><br>
 <figure align="center">
-  <img src="tim.jpg">
+  <img src="tim.jpeg">
   <figcaption>Tim Berners-Lee</figcaption>
 </figure>
 <br><br>
