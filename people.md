@@ -12,7 +12,7 @@
 
 - Hope Kim (she/her) Communication Design major and Film Production minor
 
-- Hoi Man Kwok
+- Hoi Man Kwok "Haley"(she/her) is a junior majoring in Communication Design.
 
 - Selina Liu (she/her) is a senior student majoring in Communication Design.
 
