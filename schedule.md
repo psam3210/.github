@@ -88,13 +88,13 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Conditionals and loops
+          <a href="/topics/loops-and-arrays">Loops, arrays, and objects</a>
         </p>
       </td>
       <td>
         <p>
           <strong>Homework</strong><br>
-          A2: Loops
+          <a href="/assignments#a2-loops">A2: Loops</a>
         </p>
       </td>
     </tr>
@@ -112,7 +112,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Arrays and Objects
+          Functions and IO/DOM
         </p>
       </td>
       <td>
@@ -132,7 +132,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Functions and classes
+          Object Oriented Programming
         </p>
       </td>
       <td>
@@ -152,7 +152,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          IO/DOM
+          Functions and modules
         </p>
       </td>
       <td>

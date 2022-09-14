@@ -13,14 +13,7 @@ You’ll complete a series of 3 quick exercises intended to familiarize yourself
 
 **Due September 15**
 
-
-**Note that future assignments are subject to change!**
-
----
-
-## Upcoming Assignments
-
-### [A2: Loops](https://github.com/f22-psam3210/a2-loops)
+### [A2: Loops](https://classroom.github.com/a/CZ-usqi2)
 
 Using loops, write code that accomplishes the following exercises:
 
@@ -29,6 +22,15 @@ Using loops, write code that accomplishes the following exercises:
 3. Albers, draw the squares (4 pt)
 
 *You will learn: Data manipulation, Conditional logic, Loops, Arrays*
+
+**Due September 22**
+
+
+**Note that future assignments are subject to change!**
+
+---
+
+## Upcoming Assignments
 
 ### [A3: N-Body (Pair)](https://github.com/f22-psam3210/a3-n-body)
 
