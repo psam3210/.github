@@ -6,34 +6,32 @@
 
 **Students**
 
-- Katerina Bakatselou
+- Yerin Hur (she/her) is a senior majoring in Communication Design. 
 
-- Yerin Hur
+- **Chris Kim** (he/him) is an AAS Communication Design student with an interest in coding.
 
-- Chris Kim
+- Hope Kim (she/her) Communication Design major and Film Production minor
 
-- Hope Kim
+- Hoi Man Kwok "Haley"(she/her) is a junior majoring in Communication Design.
 
-- Hoi Man Kwok 
+- Selina Liu (she/her) is a senior student majoring in Communication Design.
 
-- Selina Liu
-
-- Rosie Mai
+- Rosie Mai  (she/her) is a CD junior, who is very into tpe design!
 
 - **Citra Luna Martha** (she/her), who goes by Luna, is a designer born and raised in Jakarta, Indonesia. She is a senior in the Communication Design program.
 
-- Graeme Anthony Mounsey
+- Graeme Anthony Mounsey (he/him). Junior Communication Design Student, Japanese Minor. Excited to code!
 
 - Khe Nguyen
 
-- Christopher Panicker
+- Christopher Panicker "Chris" (he/him) Sr. CD Major, scrambling for thesis ideas.
 
-- Anaïs Pyrczak
+- Anaïs Pyrczak (she/her) is a CD major most interested in editorial design.
 
-- Roberta Daniella Ramos Bonnard
+- **Alex Silva** (he/him) is a 3rd year CD student who enjoys coding a bit *too* much and also likes reading magazines. Favorite HTML element is easily `link`.
 
-- Alex Silva
+- Haotian Wang
 
-- Yi Wang
+- Yi Wang (EVELYN she/her) is a CD junior student, who currently intrested in 3d and computing technology to make things in my mind. Favorite HTML element: `br`
 
-- Sora Wong
+- Sora Wong (she/her) is a 3rd year CD major minoring in Japanese studies and Illustration.

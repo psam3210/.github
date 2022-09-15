@@ -1,3 +1,5 @@
+<blockquote align="center" class="twitter-tweet"><p lang="en" dir="ltr">you know what can’t be acquired? html</p>&mdash; Maxim Leyzerovich (@round) <a href="https://twitter.com/round/status/1570425004520779776?ref_src=twsrc%5Etfw">September 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Schedule
 
 <table>
@@ -13,6 +15,9 @@
           <strong>1</strong><br>
           Sept 1
         </p>
+        <p>
+          <strong><a href="https://drive.google.com/file/d/1xin6cU64a9IPDhh2nHk10bgMYgzPhlZd/view?usp=sharing">Recording</a></strong>
+        </p>
       </td>
       <td>
         <p>
@@ -24,7 +29,11 @@
         </p>
         <p>
           <strong>Lecture</strong><br>
-          What is JavaScript, anyways?
+          <a href="/topics/what-is-javascript/">What is JavaScript, anyways?</a>
+        </p>
+        <p>
+          <strong>Demo</strong><br>
+          <a href="/topics/git/">Git</a>
         </p>
       </td>
       <td>
@@ -46,6 +55,9 @@
           <strong>2</strong><br>
           Sept 8
         </p>
+        <p>
+          <strong><a href="https://drive.google.com/file/d/18x7FS7lTwr680uySHdRGNZBDVadH3cVM/view?usp=sharing">Recording</a></strong>
+        </p>
       </td>
       <td>
         <p>
@@ -54,13 +66,13 @@
         </p>
         <p>
           <strong>Lecture</strong><br>
-          JavaScript Basics
+          <a href="/topics/js-basics/">JavaScript Basics</a>
         </p>
       </td>
       <td>
         <p>
           <strong>Homework</strong><br>
-          A1: Hello, World!
+          <a href="/assignments#a1-hello-world">A1: Hello, World!</a>
         </p>
       </td>
     </tr>
@@ -78,13 +90,13 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Conditionals and loops
+          <a href="/topics/loops-and-arrays">Loops, arrays, and objects</a>
         </p>
       </td>
       <td>
         <p>
           <strong>Homework</strong><br>
-          A2: Loops
+          <a href="/assignments#a2-loops">A2: Loops</a>
         </p>
       </td>
     </tr>
@@ -102,7 +114,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Arrays and Objects
+          Functions and IO/DOM
         </p>
       </td>
       <td>
@@ -122,7 +134,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Functions and classes
+          Object Oriented Programming
         </p>
       </td>
       <td>
@@ -142,7 +154,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          IO/DOM
+          Functions and modules
         </p>
       </td>
       <td>

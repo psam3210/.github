@@ -1,13 +1,7 @@
 ## Assignments
 Assignments for this course will appear below. 
 
-**Note that future assignments are subject to change!**
-
----
-
-## Upcoming Assignments
-
-### [A1: Hello, World](https://github.com/f22-psam3210/a1-hello-world)
+### [A1: Hello, World](https://classroom.github.com/a/SG4VeSYa)
 
 You’ll complete a series of 3 quick exercises intended to familiarize yourself with JavaScript and its syntax. These exercises are more detailed in the assignment `README`, but they are as follows:
 
@@ -17,7 +11,9 @@ You’ll complete a series of 3 quick exercises intended to familiarize yourself
 
 *You will learn: Git, JavaScript, Variables, Coding style, String interpolation, Console*
 
-### [A2: Loops](https://github.com/f22-psam3210/a2-loops)
+**Due September 15**
+
+### [A2: Loops](https://classroom.github.com/a/CZ-usqi2)
 
 Using loops, write code that accomplishes the following exercises:
 
@@ -26,6 +22,15 @@ Using loops, write code that accomplishes the following exercises:
 3. Albers, draw the squares (4 pt)
 
 *You will learn: Data manipulation, Conditional logic, Loops, Arrays*
+
+**Due September 22**
+
+
+**Note that future assignments are subject to change!**
+
+---
+
+## Upcoming Assignments
 
 ### [A3: N-Body (Pair)](https://github.com/f22-psam3210/a3-n-body)
 
