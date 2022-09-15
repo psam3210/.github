@@ -20,7 +20,7 @@
 
 - Rosie Mai
 
-- Citra Luna Martha
+- **Citra Luna Martha** (she/her), who goes by Luna, is a designer born and raised in Jakarta, Indonesia. She is a senior in the Communication Design program.
 
 - Graeme Anthony Mounsey
 
