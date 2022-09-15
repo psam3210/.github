@@ -186,7 +186,7 @@ for (let t = 0; t < trials; t++) {
       currentStake--;
     }
 
-    if (currentStake == goal) {
+    if (currentStake === goal) {
       wins++;
     }
   }
@@ -320,7 +320,7 @@ We can then use a nested for loop to put all the cards into our deck:
 ```js
 for (let i = 0; i < rank.length; i++) {
   for (let j = 0; j < suit.length; j++) {
-    deck[13*i + j] = rank[i] + rank[j]; // First value will be '2spades'
+    deck[i + j*13] = rank[i] + suits[j]; // First value will be '2spades'
   }
 }
 
