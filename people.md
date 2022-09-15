@@ -18,7 +18,7 @@
 
 - Rosie Mai  (she/her) is a CD junior, who is very into tpe design!
 
-- Citra Luna Martha
+- **Citra Luna Martha** (she/her), who goes by Luna, is a designer born and raised in Jakarta, Indonesia. She is a senior in the Communication Design program.
 
 - Graeme Anthony Mounsey (he/him). Junior Communication Design Student, Japanese Minor. Excited to code!
 
