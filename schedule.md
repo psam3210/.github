@@ -86,11 +86,14 @@
           <strong>Due</strong><br>
           A1
         </p>
+        <p>
+          <strong><a href="https://drive.google.com/file/d/1eH1rbvUYb64c-OEGzY3DtkY8Atodnog2/view?usp=sharing">Recording</a></strong>
+        </p>
       </td>
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/loops-and-arrays">Loops, arrays, and objects</a>
+          <a href="/topics/loops-and-arrays">Loops and arrays</a>
         </p>
       </td>
       <td>
