@@ -117,13 +117,13 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Functions and IO/DOM
+          <a href="/topics/functions-dom">Functions, Objects, and DOM</a>
         </p>
       </td>
       <td>
         <p>
           <strong>Homework</strong><br>
-          A3: N-Body
+          <a href="/assignments#a3-n-body-pair">A3: N-Body</a>
         </p>
       </td>
     </tr>
@@ -137,7 +137,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Object Oriented Programming
+          DOM Manipulation and Function Errata
         </p>
       </td>
       <td>
@@ -157,7 +157,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Functions and modules
+          Object Oriented Programming
         </p>
       </td>
       <td>

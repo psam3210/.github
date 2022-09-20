@@ -25,14 +25,7 @@ Using loops, write code that accomplishes the following exercises:
 
 **Due September 22**
 
-
-**Note that future assignments are subject to change!**
-
----
-
-## Upcoming Assignments
-
-### [A3: N-Body (Pair)](https://github.com/f22-psam3210/a3-n-body)
+### [A3: N-Body (Pair)](https://classroom.github.com/a/UjNnxiIU)
 
 Implement an n-body simulation, which keeps track of the movements of the inner planets of our solar system. You’ll be provided an initial set of values and be responsible for updating the position, velocity, and acceleration of the planets using linear approximation.
 
@@ -42,6 +35,13 @@ You may choose to complete this assignment individually or with a partner.
 
 _Kudos to Princeton’s [COS126](https://www.cs.princeton.edu/courses/archive/fall19/cos126/assignments/nbody/) for the source material for this assignment._
 
+**Due October 6**
+
+**Note that future assignments are subject to change!**
+
+---
+
+## Upcoming Assignments
 
 ### [A4: Garden (Pair)](https://github.com/f22-psam3210/a4-garden)
 
