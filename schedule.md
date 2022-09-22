@@ -113,6 +113,9 @@
           <strong>Due</strong><br>
           A2
         </p>
+        <p>
+          <strong><a href="https://drive.google.com/file/d/1RxAtKoKLerCILzPr99z_IwId-n6t3gdN/view?usp=sharing">Recording</a></strong>
+        </p>
       </td>
       <td>
         <p>
@@ -137,7 +140,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          DOM Manipulation and Function Errata
+          DOM Manipulation and Event Listeners
         </p>
       </td>
       <td>
@@ -177,7 +180,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Functions and Modules
+          Functions, Modules, and Asynchronous Functions
         </p>
       </td>
       <td>
