@@ -140,7 +140,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          DOM Manipulation and Event Listeners
+          DOM Manipulation, Event Listeners, and OOP
         </p>
       </td>
       <td>
@@ -159,8 +159,8 @@
       </td>
       <td>
         <p>
-          <strong>Lecture</strong><br>
-          Object Oriented Programming
+          <strong>Guest Lecture</strong><br>
+          <a href="https://jackrieger.com/">Jack Rieger</a>
         </p>
       </td>
       <td>
@@ -219,8 +219,8 @@
       </td>
       <td>
         <p>
-          <strong>Lecture</strong><br>
-          A Modern JS Stack
+          <strong>Field Trip</strong><br>
+          Class Trip to MoMA (meet at 12:30 in the lobby)
         </p>
       </td>
       <td>
