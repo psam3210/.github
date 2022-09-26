@@ -140,7 +140,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          DOM Manipulation, Event Listeners, and OOP
+          <a href="/topics/event-listeners-adt">Event Listeners and Abstract Data Types</a>
         </p>
       </td>
       <td>
