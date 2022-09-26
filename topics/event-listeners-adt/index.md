@@ -241,7 +241,7 @@ a.#age; // Won’t work because it is a private variable.
 a.bite(); // Takes a bite of the apple.
 ```
 
-> **Exercise: how would we represent a Shape?**
+> **Exercise: How would we represent a Shape? It should contain a relationship to an existin DOM element, and let us modify its properties. (Precursor to your next assignment)**
 
 ### Extending data types
 
