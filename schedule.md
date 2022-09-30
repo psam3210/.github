@@ -136,6 +136,9 @@
           <strong>5</strong><br>
           Sept 29
         </p>
+        <p>
+          <strong><a href="https://drive.google.com/file/d/1T7tJRwpgy6Wtzy8y7tSOm9TNeBgZrNFU/view?usp=sharing">Recording</a></strong>
+        </p>
       </td>
       <td>
         <p>
@@ -180,7 +183,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Functions, Modules, and Asynchronous Functions
+          Sorting and recursion
         </p>
       </td>
       <td>
@@ -199,8 +202,12 @@
       </td>
       <td>
         <p>
-          <strong>Lecture</strong><br>
-          Sorting and recursion
+          <strong>Guest Lecture</strong><br>
+          <a href="http://priscillapun.com/">Priscilla Pun</a>
+        </p>
+        <p>
+          <strong>Introduce</strong><br>
+          Final Project
         </p>
       </td>
       <td>
@@ -220,7 +227,7 @@
       <td>
         <p>
           <strong>Field Trip</strong><br>
-          Class Trip to MoMA (meet at 12:30 in the lobby)
+          Class Trip to <a href="https://www.moma.org/">MoMA</a> (meet at 12:30 in the lobby) with <a href="https://stephanieschapowal.com/">Stephanie Schapowal</a> and <a href="https://www.kcamable.com/">K.C. Amable</a>.
         </p>
       </td>
       <td>
@@ -244,7 +251,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          MVC and Vue
+          Modular Code, Asynchronous JS, and APIs
         </p>
         <p>
           <strong>Q&A</strong>
@@ -274,7 +281,7 @@
         </p>
         <p>
           <strong>Lecture</strong><br>
-          Conditional Rendering and State
+          Vue
         </p>
       </td>
       <td>
@@ -301,7 +308,7 @@
         </p>
         <p>
           <strong>Lecture</strong><br>
-          CRUD and Web servers
+          Conditional Rendering and State
         </p>
       </td>
       <td>
