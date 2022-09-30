@@ -384,7 +384,7 @@
       <td>
         <p>
           <strong>Final Reviews</strong><br>
-          Guest critic: <a href="https://stephanieschapowal.com/">Stephanie Schapowal</a>
+          Guest critic: TBD
         </p>
       </td>
       <td>
