@@ -163,7 +163,7 @@
       <td>
         <p>
           <strong>Guest Lecture</strong><br>
-          <a href="https://jackrieger.com/">Jack Rieger</a>
+          <a href="https://jackrieger.com/">Jack&nbsp;Rieger</a>
         </p>
       </td>
       <td>
@@ -203,7 +203,7 @@
       <td>
         <p>
           <strong>Guest Lecture</strong><br>
-          <a href="http://priscillapun.com/">Priscilla Pun</a>
+          <a href="http://priscillapun.com/">Priscilla&nbsp;Pun</a>
         </p>
         <p>
           <strong>Introduce</strong><br>
@@ -227,7 +227,7 @@
       <td>
         <p>
           <strong>Field Trip</strong><br>
-          Class Trip to <a href="https://www.moma.org/">MoMA</a> (meet at 12:30 in the lobby) with <a href="https://stephanieschapowal.com/">Stephanie Schapowal</a> and <a href="https://www.kcamable.com/">K.C. Amable</a>.
+          Class Trip to <a href="https://www.moma.org/">MoMA</a> (meet at 12:30 in the lobby) with <a href="https://stephanieschapowal.com/">Stephanie&nbsp;Schapowal</a> and <a href="https://www.kcamable.com/">K.C.&nbsp;Amable</a>.
         </p>
       </td>
       <td>
