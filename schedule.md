@@ -384,7 +384,7 @@
       <td>
         <p>
           <strong>Final Reviews</strong><br>
-          Guest critic: TBD
+          Guest critic: <a href="https://anthonyzukofsky.com/">Anthony Zukofsky</a>
         </p>
       </td>
       <td>
