@@ -169,7 +169,7 @@
       <td>
         <p>
           <strong>Homework</strong><br>
-          A4: Garden
+          <a href="/assignments#a4-garden-pair">A4: Garden</a>
         </p>
       </td>
     </tr>

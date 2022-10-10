@@ -6,6 +6,7 @@ Parsons 2 W 13th, Room 1201
 **Links**
 - [Schedule](/schedule)
 - [Assignments](/assignments)
+- [Final Project](/final)
 - [Topics](/topics/)
 - [People](/people)
 

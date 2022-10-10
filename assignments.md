@@ -61,18 +61,4 @@ You may choose to complete this assignment individually or with a partner.
 
 *You will learn: Recursion, Canvas*
 
----
-
-## Final Project
-
-More and more, devices around us are clawing for our attention. Content creators around us are capitalizing on our attention, assigning a dollar value to our time. As designers, we must be mindful of how our designs can encourage, discourage, or run parallel to the established conventions of technology and the internet. 
-
-Laurel Schwulst writes, in [*My website is a shifting house next to a river of knowledge*](https://thecreativeindependent.com/essays/laurel-schwulst-my-website-is-a-shifting-house-next-to-a-river-of-knowledge-what-could-yours-be/) of the many shapes a website can take. 
-
-Design and develop a piece of software that lets **you** use the [internet mindfully](https://thecreativeindependent.com/library/how-do-you-use-the-internet-mindfully/). In your project proposal, succinctly (in 200 words or less) describe the problem you are trying to solve, and your solution for it. 
-
-You may choose to complete this assignment individually or with a partner.
-
-Following your proposal, you will explore 3 different directions for your design and then implement a singular refined direction of your software in code.
-
-Your final project submission should be a link to the website and your project repository.
+**Due November 3**
