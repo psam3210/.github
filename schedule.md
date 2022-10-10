@@ -207,7 +207,7 @@
         </p>
         <p>
           <strong>Introduce</strong><br>
-          Final Project
+          <a href="/final">Final Project</a>
         </p>
       </td>
       <td>
