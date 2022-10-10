@@ -183,7 +183,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Sorting and recursion
+          <a href="/topics/recursion-search-sort/">Recursion, Search, and Sort</a>
         </p>
       </td>
       <td>
