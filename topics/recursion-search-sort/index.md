@@ -19,7 +19,7 @@ A recursive function generally has a base case, where the function call stack fi
 
 ### Simple example: Sum of N numbers
 
-Let’s start off with a simple example. Calculate the sum of all the whole numbers from $1$ to $n$ using recursion:
+Let’s start off with a simple example. Calculate the sum of all the whole numbers from `1` to `n` using recursion:
 
 ```js
 let sum = (n) => {
@@ -66,7 +66,9 @@ The above example, we don’t have what’s called a **convergence guarantee**. 
 
 If you remember from the first assignment, we used for loops to calculate fibonacci numbers. How would we do this recursively?
 
-$$ F_n = F_{n-1} + F_{n-2} $$
+```js
+Fn = Fn-1 + Fn-2
+```
 
 ```js
 let fib = (n) => {
@@ -167,7 +169,7 @@ This works well enough for small sets of data, but imagine if you are a company 
 
 <br><br>
 <figure align="center">
-  <img src="big-0.jpg">
+  <img src="big-0.jpg" height="400">
   <figcaption>We often use Big-O to determine how efficient our code is.</figcaption>
 </figure>
 <br><br>
@@ -260,7 +262,7 @@ What is the time complexity of binary search?
 
 <br><br>
 <figure align="center">
-  <img src="bst.png">
+  <img src="bst.png" height="400">
   <figcaption>Visualization of binary search in a tree format.</figcaption>
 </figure>
 <br><br>
