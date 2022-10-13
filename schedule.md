@@ -179,6 +179,9 @@
           <strong>7</strong><br>
           Oct 13
         </p>
+        <p>
+          <strong><a href="https://drive.google.com/file/d/1Y5VK8nhdOquPq4QiAO-wNHYItwq37Ajr/view?usp=sharing">Recording</a></strong>
+        </p>
       </td>
       <td>
         <p>
