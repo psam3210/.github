@@ -47,13 +47,7 @@ You may choose to complete this assignment individually or with a partner.
 
 **Due October 20**
 
-**Note that future assignments are subject to change!**
-
----
-
-## Upcoming Assignments
-
-### [A5: Sierpenski (Pair)](https://github.com/f22-psam3210/a5-sierpenski)
+### [A5: Sierpenski (Pair)](https://classroom.github.com/a/XD7dNLyx)
 
 Implement a sierpenski triangle which renders in an HTML Canvas by recursively calling itself again and again. A user should be able to specify the level of detail (n) that the triangle renders at.
 

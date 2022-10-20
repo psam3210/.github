@@ -216,7 +216,7 @@
       <td>
         <p>
           <strong>Homework</strong><br>
-          A5: Sierpenski
+          <a href="/assignments#a5-sierpenski-pair">A5: Sierpenski</a>
         </p>
       </td>
     </tr>
