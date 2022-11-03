@@ -252,6 +252,12 @@
           <strong>Due</strong><br>
           A5
         </p>
+        <p>
+          <strong><a href="https://drive.google.com/file/d/1m_sHGqyNXpvoPbMeaMHxLKwHoiiEuNa6/view?usp=share_link">Recording Lecture</a></strong>
+        </p>
+        <p>
+          <strong><a href="https://drive.google.com/file/d/1T1YZRdlWtuoS4lpI_09YsuYSFGPNCEYB/view?usp=sharing">Recording Review</a></strong>
+        </p>
       </td>
       <td>
         <p>
