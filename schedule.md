@@ -217,6 +217,8 @@
         <p>
           <strong>Homework</strong><br>
           <a href="/assignments#a5-sierpenski-pair">A5: Sierpenski</a>
+          <br>
+          Final project proposals
         </p>
       </td>
     </tr>
@@ -226,6 +228,10 @@
           <strong>9</strong><br>
           Oct 27
         </p>
+        <p>
+          <strong>Due</strong><br>
+          Final project proposals
+        </p>
       </td>
       <td>
         <p>
@@ -234,10 +240,6 @@
         </p>
       </td>
       <td>
-        <p>
-          <strong>Homework</strong><br>
-          Final project proposals
-        </p>
       </td>
     </tr>
     <tr valign="top">
@@ -254,7 +256,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Modular Code, Asynchronous JS, and APIs
+          Finish sorting and recursion
         </p>
         <p>
           <strong>Q&A</strong>
@@ -273,10 +275,6 @@
           <strong>11</strong><br>
           Nov 10
         </p>
-        <p>
-          <strong>Due</strong><br>
-          Project proposals
-        </p>
       </td>
       <td>
         <p>
@@ -284,7 +282,7 @@
         </p>
         <p>
           <strong>Lecture</strong><br>
-          Vue
+          Modular JS and APIs, Are.na as an API
         </p>
       </td>
       <td>
@@ -311,7 +309,7 @@
         </p>
         <p>
           <strong>Lecture</strong><br>
-          Conditional Rendering and State
+          Vue
         </p>
       </td>
       <td>
