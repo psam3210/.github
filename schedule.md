@@ -315,7 +315,7 @@
         </p>
         <p>
           <strong>Lecture</strong><br>
-          Vue
+          <a href="/topics/vue/">Vue</a>
         </p>
       </td>
       <td>
