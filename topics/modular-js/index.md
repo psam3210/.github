@@ -6,7 +6,7 @@
 <br><br>
 
 
-# Modular JavaScript, and APIs
+# Modular JavaScript, and Data
 
 ## Modules
 
@@ -19,6 +19,9 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
 ## Package Managers
 
 ---
+## Data
+
+## Local Storage
 
 ## APIs
 

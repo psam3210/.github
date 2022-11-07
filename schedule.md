@@ -262,7 +262,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          Finish sorting and recursion
+          <a href="/topics/recursion-search-sort/">Finish sorting and recursion</a>
         </p>
         <p>
           <strong>Q&A</strong>
@@ -288,7 +288,7 @@
         </p>
         <p>
           <strong>Lecture</strong><br>
-          Modular JS and APIs, Are.na as an API
+          <a href="/topics/modular-js/">Modular JS and Data</a>
         </p>
       </td>
       <td>
@@ -349,6 +349,10 @@
           <strong>14</strong><br>
           Dec 1
         </p>
+        <p>
+          <strong>Due</strong><br>
+          Usability test review
+        </p>
       </td>
       <td>
         <p>
@@ -386,6 +390,10 @@
         <p>
           <strong>16</strong><br>
           Dec 15
+        </p>
+        <p>
+          <strong>Due</strong><br>
+          Final Project
         </p>
       </td>
       <td>
