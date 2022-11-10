@@ -281,6 +281,9 @@
           <strong>11</strong><br>
           Nov 10
         </p>
+        <p>
+          <strong><a href="https://drive.google.com/file/d/1aSLmCU5WAb9wzuCPgsnIFwvIhUkuUAuS/view?usp=share_link">Recording</a></strong>
+        </p>
       </td>
       <td>
         <p>
