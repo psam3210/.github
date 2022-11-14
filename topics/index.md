@@ -7,6 +7,7 @@
 - [Event Listeners and Abstract Data Types](/topics/event-listeners-adt/)
 - [Recursion, Search, and Sort](/topics/recursion-search-sort/)
 - [Modular JavaScript and Data](/topics/modular-js/)
+- [Vue](/topics/vue/)
 ## Demos
 
 - [Git](/topics/git)
