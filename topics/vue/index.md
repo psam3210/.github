@@ -117,6 +117,12 @@ Lucky for you, you can also just copy this [template repository](https://github.
 
 After this, any commits and pushes to GitHub will automatically deploy your website correctly.
 
+## Chrome extension
+
+I also strongly recommend downloading this [Chrome extension](https://devtools.vuejs.org/guide/installation.html) to help with debugging.
+
+---
+
 ## Anatomy of a Vue project
 
 Our project contains the following:
@@ -164,11 +170,11 @@ Vue makes use of the existing custom component syntax that exists within HTML, b
 
 ### `.vue` files
 
-Vue components most commonly live in `component-name.vue` files. These files are ingested by Vue and Vite and rendered into constituent HTML/CSS/JS formats. Here’s a very basic example of a `greeting.vue`:
+Vue components most commonly live in `component-name.vue` files, commonly called Single File Components ([SFC](https://vuejs.org/api/sfc-spec.html#overview)s). These files are ingested by Vue and Vite and rendered into constituent HTML/CSS/JS formats. Here’s a very basic example of a `greeting.vue`:
 
 ```html
 <template>
-  <p class="greeting">{{ greeting }}</p>
+  <p class="greeting" v-html="greeting"></p>
 </template>
 
 <script>
@@ -181,13 +187,92 @@ Vue components most commonly live in `component-name.vue` files. These files are
    }
 </script>
 
-<style>
+<style scoped>
    .greeting {
      color: red;
      font-weight: bold;
    }
 </style>
 ```
+
+As you can see, each technology is represented in its own element: `<template>` contains our HTML, `<script>` exports an object based representation of our component, and `<style>` contains component scoped CSS.
+
+### `<template>`
+
+This part of the SFC contains the actual HTML being rendered into the web browser. It contains a mix of Vue based rendering logic, as well as regular HTML. More can be found [here](https://vuejs.org/guide/essentials/template-syntax.html).
+
+```
+<p>{{msg}}</p>
+```
+This is the most basic example of Vue — it interpolates a JavaScript variable `msg` into the rendered HTML.
+
+```
+<p v-bind:id="myId"></p>
+```
+You can also connect attributes to Vue, using the `v-bind:` directive. This directs Vue to make the `id` of this element reactive and it will change if `myId` changes.
+
+```
+<p v-if="active">Only if active</p>
+```
+The `v-if` directive will only render the enclosed HTML *if* `active` is true.
+
+```
+<button @click="active = true">Click me</button>
+```
+Another directive that you may use is the `@click` directive. This maps on to a `click` event, and then evaluates the JavaScript in the quotes.
+
+```
+<div>
+   <component-a v-bind:color="color"></component-a>
+</div>
+```
+Finally, another very common syntax we’ll see is nesting components within other components. Here, we are rendering another component `<component-a>` with a property (prop for short) `color`, which will update dynamically with the value of the JavaScript variable `color` (since we are using `v-bind:`).
+
+Lots to get through!
+
+### `<script>`
+
+Vue components can be written using two methods: Composition or Options. For our purposes, we’ll stick with Options, as that is what Vue was classically designed on.
+
+```js
+  import OtherComponent from './OtherComponent.vue';
+
+  export default {
+    name: 'Greeting'
+    props: {
+      name: String,
+    },
+    components: {
+      OtherComponent
+    }
+    data() {
+      return {
+        greeting: 'Hello',
+      },
+    },
+    computed: {
+      welcomeMessage(): {
+        return `${greeting} ${name}!`;
+      }
+    },
+    methods: {
+      clicked(): {
+        this.greeting = 'Goodbye';
+      }
+    }
+  }
+```
+
+Each Vue SFC exports a JavaScript object by default. This SFC contains several keys:
+
+- `name` is the name of the component.
+- `props` is an object which holds any passed down props from a parent component. Think of these as the constructor params which are immutable.
+- `components` will contain any sub-components that this component uses.
+- `data()` is a function, which returns mutable object properties.
+- `computed` are any properties (written as functions) which are derived from props, data, or other computed properties.
+- `methods` functions that are called by events or other parts of the component which provide additional behavior.
+
+There are other properties that can be part of this object, but these are the basics. You can read more about this at Vue’s very well written [documentation site](https://vuejs.org/guide/introduction.html).
 
 ## Component lifecycle
 
@@ -197,6 +282,18 @@ Vue components most commonly live in `component-name.vue` files. These files are
   <figcaption>A lovely diagram of the lifecycle of a component</figcaption>
 </figure>
 <br><br>
+
+This diagaram illustrates how a component is actually brought into existence and is eventually destroyed. The functions on the left are lifecycle events that you can have your components hook into!
+
+For example, if we wanted our component to do something right when it was added to the DOM, we could have this:
+
+```js
+ export default {
+  mounted() {
+    console.log('do something!');
+  }
+ }
+```
 
 ## More resources
 
