@@ -1,5 +1,3 @@
-<blockquote align="center" class="twitter-tweet"><p lang="en" dir="ltr">you know what can’t be acquired? html</p>&mdash; Maxim Leyzerovich (@round) <a href="https://twitter.com/round/status/1570425004520779776?ref_src=twsrc%5Etfw">September 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ## Schedule
 
 <table>
