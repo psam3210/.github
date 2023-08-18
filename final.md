@@ -18,7 +18,7 @@ Either alone or with a partner, write a proposal (200 words or less) outlining a
 
 This will be due as a Google Doc, shared with me by the beginning of class on October 27 over Slack. This Google Doc will serve as a home base for your project, and will link to your Figma sketches, prototype, user research, and website.
 
-**Due November 6**
+**Due October 30**
 
 ### Part 2: Sketches
 

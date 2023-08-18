@@ -45,7 +45,7 @@ You may choose to complete this assignment individually or with a partner.
 
 *You will learn: DOM and JS Relationship, Functions, Modularizing code, Event listeners*
 
-**Due October 30**
+**Due October 23**
 
 ### A5: Sierpenski (Pair)
 
