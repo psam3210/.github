@@ -15,7 +15,6 @@
 - Yunuo Jin
 - Aarya Kini
 - Themis Kung
-- Kiara Putrilla
 - Pande M. Suryani
 - Deeva Thomas
 - Sage Y. Won

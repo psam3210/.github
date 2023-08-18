@@ -3,6 +3,14 @@
 Mondays, 9:00 am – 11:40 am  
 Parsons 2 W 13th, Room 1201
 
+**Instructor**  
+Eric Li  
+lie@newschool.edu
+
+**Teaching Assistant**  
+Alex Silva  
+silva892@newschool.edu
+
 **Links**
 - [Schedule](/schedule)
 - [Assignments](/assignments)
@@ -12,9 +20,9 @@ Parsons 2 W 13th, Room 1201
 
 **External Links**
 - [GitHub](https://github.com/psam3210)
-- [Slack](https://f22cdstudiojavascript.slack.com/)
-- [Zoom Room](https://NewSchool.zoom.us/j/92107063249?pwd=UXV0Q2hFVS9BTURhUFQzUER2WUR5dz09)
-- [Syllabus](https://docs.google.com/document/d/1K5fLvBNo-sZWHB_io8dgejSMjkcMhO2hrhsK_sJQJtM/edit?usp=sharing)
+- [Slack](https://f23cdstudiojavascript.slack.com/)
+- [Zoom](https://NewSchool.zoom.us/j/92107063249?pwd=UXV0Q2hFVS9BTURhUFQzUER2WUR5dz09)
+- [Syllabus](https://docs.google.com/document/d/13kqMjHCOCMI5cz3JOk_Cfyrvyk6O-NcRLMf-rvvwiaA/edit?usp=sharing)
 
 ## Description
 This is a computer science class first, and a design class second. We will focus on fundamentals of computing through the lens of JavaScript and its particulars before diving into the creation of a web based application using Vue. Students will learn about computing paradigms such as objects and arrays, functions, data structures, and algorithms. We will review what a modern JS stack looks like and how to call an API, with the final project being a web app that students will design and build. This is a fast paced course and students are expected to dedicate a good amount of time outside of class to assignments from this class.
@@ -29,10 +37,7 @@ By the end of the semester, students should be able to:
 
 ## Community Agreement
 
-- This is a safe space for anyone to ask questions about work. They are also able to ask questions anonymously on Slack.
-- Critiques should be taken in good faith. We’re all here to learn together and nothing should be taken personally.
-- Critiques should be more than surface level comments and directly engage with the work.
-- Feedback for code quality of assignments will be printed.
+*To be completed on the first day of class.*
 
 ## Grading
 
@@ -76,14 +81,23 @@ I will have limited availability outside of our class time, and won’t keep sch
 
 ### Additional technical help
 
-For more specific technical instruction and questions, Parsons has dedicated CD-program tutors available to help students with HTML, CSS, and JavaScript, as well as offering general design critiques and feedback. The drop-in schedules are available in the [CD@Parsons](https://cdparsons.glideapp.io) app under “Make & Remake.” 
+This semester, we are lucky to have a teaching assistant, Alex Silva. He should be seen as a resource for help, technical questions, and debugging. However, this is not a blank check to go to him for any issues you encounter — similar to myself, you should first rely on yourself and available resources, before going to him for help.
+ 
+For additional specific technical instruction and questions, Parsons has dedicated CD-program tutors available to help students with HTML, CSS, and JavaScript, as well as offering general design critiques and feedback. The drop-in schedules are available in the [CD@Parsons](https://cdparsons.glideapp.io) app under “Make & Remake.” 
 
 As CD-program tutors are available only a limited number of hours per week, it is advisable to start on your projects early and seek help early to avoid the usual end of project/semester rush for additional help.
 
+Additional code help can be found via the [University Learning Center](https://www.newschool.edu/learning-center/) (ULC) which has tutors who hold regular office hours.
 
 ### Code plagiarism
 
-Students may find code similar to our exercises or projects elsewhere online. But the copying or adapting of any code beyond our provided course material (lectures, exercises, demos) without attribution is not allowed under any circumstances. If adapting, with attribution, students must explain the usage and demonstrate an understanding of how it works. There is zero tolerance for any sort of plagiarism—which ranges from “verbatim copying” (cutting-and-pasting code) to “thorough paraphrasing” (changing names or rearranging code). Students should also review the _Academic Honesty and Integrity_ policies.
+Students may find code similar to our exercises or projects elsewhere online. But the copying or adapting of any code beyond our provided course material (lectures, exercises, demos) without attribution is not allowed under any circumstances. If adapting, with attribution, students must explain the usage and demonstrate an understanding of how it works. There is zero tolerance for any sort of plagiarism—which ranges from “verbatim copying” (cutting-and-pasting code) to “thorough paraphrasing” (changing names or rearranging code). Students should also review the *Academic Honesty and Integrity* policies.
+
+You have peers who have taken this course before — you are welcome to ask them for help on assignments and technical questions. However, under no circumstances are you allowed to view their code or copy their solutions. I take code plagiarism very seriously and any instances will lead to a failure in the course, as well as a referral to the program director.
+
+#### A Note on ChatGPT
+
+You may *not* use ChatGPT to explicitly complete any of our programming assignments — the goal of these assignments are to teach you the fundamentals of computer science and using a large language model to do the work will prevent you from actually learning any of the concepts. However, I welcome its usage as a tool for understanding concepts covered in class, as well as for your final project. I view ChatGPT like any other resource (MDN, StackOverflow, etc) — you need to learn what to ask it before it actually becomes useful. And the goal of this course is to ensure that you have a solid understanding of the fundamentals.
 
 
 ### Pairing

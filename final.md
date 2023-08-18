@@ -18,7 +18,7 @@ Either alone or with a partner, write a proposal (200 words or less) outlining a
 
 This will be due as a Google Doc, shared with me by the beginning of class on October 27 over Slack. This Google Doc will serve as a home base for your project, and will link to your Figma sketches, prototype, user research, and website.
 
-**Due October 27**
+**Due November 6**
 
 ### Part 2: Sketches
 
@@ -26,7 +26,7 @@ Sketch on three different directions for your software. These should not only be
 
 Your submission should include 3 different sketches, with at least 4 different screens per sketch (a total of 12 artboards minimum). You should work in Figma, and link to your design file within your project Google Doc.
 
-**Due November 17**
+**Due November 20**
 
 ### Part 2.1: User Testing
 
@@ -34,7 +34,7 @@ Based on feedback from class, refine one direction to turn into a usable prototy
 
 Submit a link to your prototype Figma and to your notes from your user tests to your project Google Doc.
 
-**Due December 1**
+**Due November 27**
 
 ### Part 3: Code
 
@@ -42,10 +42,10 @@ Time to build your software! Using either HTML/CSS/JS, or a more robust library 
 
 You should begin this in parallel to Part 2.1. Submit a link to your GitHub repository and to your website URL in your project Google Doc.
 
-**Due December 15**
+**Due December 11**
 
 ### Final presentation
 
 Presenting your work is part of any design process. Put together a 10 minute presentation (you can use a deck if you want) which begins with the background of your project, includes your design sketches and user research, and finishes in a walk through of your live site.
 
-**In class, December 15**
+**In class, December 11**
