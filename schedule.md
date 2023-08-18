@@ -11,10 +11,10 @@
       <td>
         <p>
           <strong>1</strong><br>
-          Sept 1
+          Aug 28
         </p>
         <p>
-          <strong><a href="https://drive.google.com/file/d/1xin6cU64a9IPDhh2nHk10bgMYgzPhlZd/view?usp=sharing">Recording</a></strong>
+          <strong><a href="#">Recording</a></strong>
         </p>
       </td>
       <td>
@@ -40,7 +40,7 @@
           <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">What is Code?</a> by Paul Ford
         </p>
         <p>
-          Clone the <a href="https://github.com/f22-psam3210/.github">class repository</a> and edit your entry in <code>people.md</code>. Include your preferred name, pronouns, and a brief introduction.
+          Clone the <a href="https://github.com/psam3210/.github">class repository</a> and edit your entry in <code>people.md</code>. Include your preferred name, pronouns, and a brief introduction.
         </p>
         <p>
           Fill out the course survey if you haven’t already, join our Slack, and sign up for GitHub.
@@ -51,10 +51,7 @@
       <td>
         <p>
           <strong>2</strong><br>
-          Sept 8
-        </p>
-        <p>
-          <strong><a href="https://drive.google.com/file/d/18x7FS7lTwr680uySHdRGNZBDVadH3cVM/view?usp=sharing">Recording</a></strong>
+          Sept 4
         </p>
       </td>
       <td>
@@ -78,14 +75,11 @@
       <td>
         <p>
           <strong>3</strong><br>
-          Sept 15
+          Sept 11
         </p>
         <p>
           <strong>Due</strong><br>
           A1
-        </p>
-        <p>
-          <strong><a href="https://drive.google.com/file/d/1eH1rbvUYb64c-OEGzY3DtkY8Atodnog2/view?usp=sharing">Recording</a></strong>
         </p>
       </td>
       <td>
@@ -105,20 +99,35 @@
       <td>
         <p>
           <strong>4</strong><br>
-          Sept 22
+          Sept 18
         </p>
         <p>
           <strong>Due</strong><br>
           A2
         </p>
+      </td>
+      <td>
         <p>
-          <strong><a href="https://drive.google.com/file/d/1RxAtKoKLerCILzPr99z_IwId-n6t3gdN/view?usp=sharing">Recording</a></strong>
+          <strong>No Class</strong>
+        </p>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td>
+        <p>
+          <strong>5 — REMOTE</strong><br>
+          Sept 25
+        </p>
+        <p>
+          <strong><a href="https://drive.google.com/file/d/1T7tJRwpgy6Wtzy8y7tSOm9TNeBgZrNFU/view?usp=sharing">Recording</a></strong>
         </p>
       </td>
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/functions-dom">Functions, Objects, and DOM</a>
+          <a href="/topics/functions-dom/">Functions, Objects, and DOM</a>
         </p>
       </td>
       <td>
@@ -131,11 +140,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>5</strong><br>
-          Sept 29
-        </p>
-        <p>
-          <strong><a href="https://drive.google.com/file/d/1T7tJRwpgy6Wtzy8y7tSOm9TNeBgZrNFU/view?usp=sharing">Recording</a></strong>
+          <strong>6 — REMOTE</strong><br>
+          Oct 2
         </p>
       </td>
       <td>
@@ -150,8 +156,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>6</strong><br>
-          Oct 6
+          <strong>7</strong><br>
+          Oct 9
         </p>
         <p>
           <strong>Due</strong><br>
@@ -160,8 +166,8 @@
       </td>
       <td>
         <p>
-          <strong>Guest Lecture</strong><br>
-          <a href="https://jackrieger.com/">Jack&nbsp;Rieger</a>
+          <strong>Guest Lecture — Jack Rieger</strong><br>
+          Debugging Methods and Approaches
         </p>
       </td>
       <td>
@@ -174,11 +180,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>7</strong><br>
-          Oct 13
-        </p>
-        <p>
-          <strong><a href="https://drive.google.com/file/d/1Y5VK8nhdOquPq4QiAO-wNHYItwq37Ajr/view?usp=sharing">Recording</a></strong>
+          <strong>8 — REMOTE</strong><br>
+          Oct 16
         </p>
       </td>
       <td>
@@ -193,8 +196,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>8</strong><br>
-          Oct 20
+          <strong>9</strong><br>
+          Oct 23
         </p>
         <p>
           <strong>Due</strong><br>
@@ -203,8 +206,32 @@
       </td>
       <td>
         <p>
-          <strong>Guest Lecture</strong><br>
-          <a href="http://priscillapun.com/">Priscilla&nbsp;Pun</a>
+          <strong>Guest Lecture — Jack Rieger</strong><br>
+          CMS
+        </p>
+      </td>
+      <td>
+        <p>
+          <strong>Homework</strong><br>
+          Final project proposals
+        </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td>
+        <p>
+          <strong>10</strong><br>
+          Oct 30
+        </p>
+        <p>
+          <strong>Due</strong><br>
+          Final project proposals
+        </p>
+      </td>
+      <td>
+        <p>
+          <strong>Lecture</strong><br>
+          <a href="/topics/recursion-search-sort/">Finish sorting and recursion</a>
         </p>
         <p>
           <strong>Introduce</strong><br>
@@ -215,61 +242,6 @@
         <p>
           <strong>Homework</strong><br>
           <a href="/assignments#a5-sierpenski-pair">A5: Sierpenski</a>
-          <br>
-          Final project proposals
-        </p>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <p>
-          <strong>9</strong><br>
-          Oct 27
-        </p>
-        <p>
-          <strong>Due</strong><br>
-          Final project proposals
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Field Trip</strong><br>
-          Class Trip to <a href="https://www.moma.org/">MoMA</a> (meet at 12:30 in the lobby) with <a href="https://stephanieschapowal.com/">Stephanie&nbsp;Schapowal</a> and <a href="https://www.kcamable.com/">K.C.&nbsp;Amable</a>.
-        </p>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <p>
-          <strong>10</strong><br>
-          Nov 3
-        </p>
-        <p>
-          <strong>Due</strong><br>
-          A5
-        </p>
-        <p>
-          <strong><a href="https://drive.google.com/file/d/1m_sHGqyNXpvoPbMeaMHxLKwHoiiEuNa6/view?usp=share_link">Recording Lecture</a></strong>
-        </p>
-        <p>
-          <strong><a href="https://drive.google.com/file/d/1T1YZRdlWtuoS4lpI_09YsuYSFGPNCEYB/view?usp=sharing">Recording Review</a></strong>
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Lecture</strong><br>
-          <a href="/topics/recursion-search-sort/">Finish sorting and recursion</a>
-        </p>
-        <p>
-          <strong>Q&A</strong>
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Homework</strong><br>
-          Study
         </p>
       </td>
     </tr>
@@ -277,16 +249,10 @@
       <td>
         <p>
           <strong>11</strong><br>
-          Nov 10
-        </p>
-        <p>
-          <strong><a href="https://drive.google.com/file/d/1aSLmCU5WAb9wzuCPgsnIFwvIhUkuUAuS/view?usp=share_link">Recording</a></strong>
+          Nov 6
         </p>
       </td>
       <td>
-        <p>
-          <strong>Midterm</strong>
-        </p>
         <p>
           <strong>Lecture</strong><br>
           <a href="/topics/modular-js/">Modular JS and Data</a>
@@ -303,26 +269,24 @@
       <td>
         <p>
           <strong>12</strong><br>
-          Nov 17
+          Nov 13
         </p>
         <p>
           <strong>Due</strong><br>
-          Sketches
+          A5
         </p>
       </td>
       <td>
-        <p>
-          <strong>Present sketches</strong>
-        </p>
         <p>
           <strong>Lecture</strong><br>
           <a href="/topics/vue/">Vue</a>
         </p>
+        <p><strong>Q&A</strong></p>
       </td>
       <td>
         <p>
           <strong>Homework</strong><br>
-          Final Project
+          Study for midterm
         </p>
       </td>
     </tr>
@@ -330,17 +294,21 @@
       <td>
         <p>
           <strong>13</strong><br>
-          Nov 24 (Thanksgiving)
+          Nov 20
         </p>
       </td>
       <td>
         <p>
-          <strong>No class</strong>
+          <strong>Midterm</strong>
+        </p>
+        <p>
+          <strong>Present sketches</strong>
         </p>
       </td>
       <td>
         <p>
-          <strong>No class</strong>
+          <strong>Homework</strong><br>
+          User testing and research
         </p>
       </td>
     </tr>
@@ -348,7 +316,7 @@
       <td>
         <p>
           <strong>14</strong><br>
-          Dec 1
+          Dec 27
         </p>
         <p>
           <strong>Due</strong><br>
@@ -371,7 +339,7 @@
       <td>
         <p>
           <strong>15</strong><br>
-          Dec 8
+          Dec 4
         </p>
       </td>
       <td>
@@ -390,7 +358,7 @@
       <td>
         <p>
           <strong>16</strong><br>
-          Dec 15
+          Dec 11
         </p>
         <p>
           <strong>Due</strong><br>
@@ -399,8 +367,7 @@
       </td>
       <td>
         <p>
-          <strong>Final Reviews</strong><br>
-          Guest critic: <a href="https://anthonyzukofsky.com/">Anthony Zukofsky</a>
+          <strong>Final Reviews</strong>
         </p>
       </td>
       <td>

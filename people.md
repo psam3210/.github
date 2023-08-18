@@ -1,9 +1,11 @@
 ## People
 
-**Instructor**
+**Teaching Faculty**
 
 - **Eric Li** (he/him) is a [designer and software engineer](https://eric.young.li/) based in Brooklyn, NY. He is the Digital Product Director at the [Eames Institute](https://eamesinstitute.org/). Eric also [writes sporadically](https://www.moma.org/magazine/articles/677) and teaches here at Parsons. His favorite HTML element is `iframe`.
 
+- **Alex Silva**
+  
 **Students**
 
 - Ivy Chen
