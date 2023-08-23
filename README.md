@@ -20,8 +20,8 @@ silva892@newschool.edu
 
 **External Links**
 - [GitHub](https://github.com/psam3210)
-- [Slack](https://f23cdstudiojavascript.slack.com/)
-- [Zoom](https://NewSchool.zoom.us/j/92107063249?pwd=UXV0Q2hFVS9BTURhUFQzUER2WUR5dz09)
+- [Slack](https://cdstudiojavascript.slack.com/)
+- [Zoom](https://NewSchool.zoom.us/j/96906093274?pwd=NFE0UDdaUU5MTDltRmQxQzZ0SDZSZz09)
 - [Syllabus](https://docs.google.com/document/d/13kqMjHCOCMI5cz3JOk_Cfyrvyk6O-NcRLMf-rvvwiaA/edit?usp=sharing)
 
 ## Description

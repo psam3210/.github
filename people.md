@@ -11,12 +11,13 @@
 - Ivy Chen
 - Sizhen Chen
 - Yuntong Chen
-- Julia Daser
+- Jia Choi
 - Noah S. Farjani
 - Hina Fernstrom
-- Yunuo Jin
+- Olivia Hu
 - Aarya Kini
 - Themis Kung
+- James Spitzenberger
 - Pande M. Suryani
 - Deeva Thomas
 - Sage Y. Won
