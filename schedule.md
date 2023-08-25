@@ -37,7 +37,7 @@
       <td>
         <p>
           <strong>Read</strong><br>
-          <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">What is Code?</a> by Paul Ford
+          <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">What is Code?</a> by Paul Ford and bring 3 discussion questions.
         </p>
         <p>
           Clone the <a href="https://github.com/psam3210/.github">class repository</a> and edit your entry in <code>people.md</code>. Include your preferred name, pronouns, and a brief introduction.

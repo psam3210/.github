@@ -78,12 +78,10 @@ Students are expected to actively and passionately participate in this course. T
 
 I will have limited availability outside of our class time, and won’t keep scheduled “office hours.” Students should not rely on me to solve specific design or technical problems. Their first resource should be themselves, then the course site and its materials, and then each other. If there are still questions—such as logistical or content ones—students can message me on Slack, and I will respond when I can. But this should never be a bottleneck; all of this works better when not done at the last minute.
 
+This semester, we are lucky to have a teaching assistant Alex Silva to help us out. He should be seen as a resource for help, technical questions, and debugging and will hold office hours once a week. Attending these office hours is strongly encouraged as guidance on assignments will be covered in detail. However, this is not a blank check to go to him for any issues you encounter — similar to myself, you should first rely on yourself and available resources, before going to him for help.
 
 ### Additional technical help
-
-This semester, we are lucky to have a teaching assistant, Alex Silva. He should be seen as a resource for help, technical questions, and debugging. However, this is not a blank check to go to him for any issues you encounter — similar to myself, you should first rely on yourself and available resources, before going to him for help.
- 
-For additional specific technical instruction and questions, Parsons has dedicated CD-program tutors available to help students with HTML, CSS, and JavaScript, as well as offering general design critiques and feedback. The drop-in schedules are available in the [CD@Parsons](https://cdparsons.glideapp.io) app under “Make & Remake.” 
+ For additional specific technical instruction and questions, Parsons has dedicated CD-program tutors available to help students with HTML, CSS, and JavaScript, as well as offering general design critiques and feedback. The drop-in schedules are available in the [CD@Parsons](https://cdparsons.glideapp.io) app under “Make & Remake.” 
 
 As CD-program tutors are available only a limited number of hours per week, it is advisable to start on your projects early and seek help early to avoid the usual end of project/semester rush for additional help.
 
@@ -97,8 +95,9 @@ You have peers who have taken this course before — you are welcome to ask them
 
 #### A Note on ChatGPT
 
-You may *not* use ChatGPT to explicitly complete any of our programming assignments — the goal of these assignments are to teach you the fundamentals of computer science and using a large language model to do the work will prevent you from actually learning any of the concepts. However, I welcome its usage as a tool for understanding concepts covered in class, as well as for your final project. I view ChatGPT like any other resource (MDN, StackOverflow, etc) — you need to learn what to ask it before it actually becomes useful. And the goal of this course is to ensure that you have a solid understanding of the fundamentals.
+You may *not* use ChatGPT to explicitly complete any of our programming assignments — the goal of these assignments are to teach you the fundamentals of computer science and using a large language model to do the work will prevent you from actually learning any of the concepts. However, I welcome its usage as a tool for understanding concepts covered in class, as well as for your final project. I view ChatGPT like any other resource (MDN, StackOverflow, etc) — you need to learn what to ask it before it actually becomes useful.
 
+The goal of this course is to ensure that you have a solid understanding of the fundamentals of programming. By engaging with ChatGPT or another LLM based tool, you are only doing yourself a disservice.
 
 ### Pairing
 
