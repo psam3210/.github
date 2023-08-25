@@ -175,15 +175,15 @@
           <strong>8</strong><br>
           Oct 16
         </p>
-        <p>
-          <strong>Introduce</strong><br>
-          <a href="/final">Final Project</a>
-        </p>
       </td>
       <td>
         <p>
           <strong>Lecture</strong><br>
           <a href="/topics/modular-js/">Data and APIs</a>
+        </p>
+        <p>
+          <strong>Introduce</strong><br>
+          <a href="/final">Final Project</a>
         </p>
       </td>
       <td>
