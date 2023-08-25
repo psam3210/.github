@@ -168,3 +168,7 @@ After a few minutes, we’ll refresh the `Pages` page and if it all goes well, w
   <figcaption>Fin.</figcaption>
 </figure>
 <br><br>
+
+## Forking
+
+Forking is a part of OSS.

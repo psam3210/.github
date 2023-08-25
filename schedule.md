@@ -20,14 +20,12 @@
       <td>
         <p>
           <strong>Introduce</strong><br>
-          Hellos<br>
-          Syllabus Review<br>
-          Group Agreement<br>
-          Software Review<br>
+          Hellos and Syllabus Review<br>
+          Group Agreement
         </p>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/what-is-javascript/">What is JavaScript, anyways?</a>
+          <a href="/topics/js-basics/">JavaScript Basics</a>
         </p>
         <p>
           <strong>Demo</strong><br>
@@ -40,10 +38,11 @@
           <a href="https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/">What is Code?</a> by Paul Ford and bring 3 discussion questions.
         </p>
         <p>
-          Clone the <a href="https://github.com/psam3210/.github">class repository</a> and edit your entry in <code>people.md</code>. Include your preferred name, pronouns, and a brief introduction.
+          <strong>Homework</strong><br>
+          <a href="/assignments#a1-hello-world">A1: Hello, World!</a>
         </p>
         <p>
-          Fill out the course survey if you haven’t already, join our Slack, and sign up for GitHub.
+          Fork the <a href="https://github.com/psam3210/.github">class repository</a> and edit your entry in <code>people.md</code>. Include your preferred name, pronouns, and a brief introduction.
         </p>
       </td>
     </tr>
@@ -56,19 +55,10 @@
       </td>
       <td>
         <p>
-          <strong>Discuss</strong><br>
-          What is Code?
-        </p>
-        <p>
-          <strong>Lecture</strong><br>
-          <a href="/topics/js-basics/">JavaScript Basics</a>
+          <strong>Labor Day — No Class</strong>
         </p>
       </td>
       <td>
-        <p>
-          <strong>Homework</strong><br>
-          <a href="/assignments#a1-hello-world">A1: Hello, World!</a>
-        </p>
       </td>
     </tr>
     <tr valign="top">
@@ -83,6 +73,10 @@
         </p>
       </td>
       <td>
+        <p>
+          <strong>Discuss</strong><br>
+          What is code?
+        </p>
         <p>
           <strong>Lecture</strong><br>
           <a href="/topics/loops-and-arrays">Loops and arrays</a>
@@ -108,7 +102,8 @@
       </td>
       <td>
         <p>
-          <strong>No Class</strong>
+          <strong>Lecture — Michael Fehrenbach</strong><br>
+          <a href="/topics/what-is-javascript/">What is JavaScript, anyways?</a>
         </p>
       </td>
       <td>
@@ -117,11 +112,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>5 — REMOTE</strong><br>
+          <strong>5</strong><br>
           Sept 25
-        </p>
-        <p>
-          <strong><a href="https://drive.google.com/file/d/1T7tJRwpgy6Wtzy8y7tSOm9TNeBgZrNFU/view?usp=sharing">Recording</a></strong>
         </p>
       </td>
       <td>
@@ -140,7 +132,7 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>6 — REMOTE</strong><br>
+          <strong>6</strong><br>
           Oct 2
         </p>
       </td>
@@ -166,7 +158,7 @@
       </td>
       <td>
         <p>
-          <strong>Guest Lecture — Jack Rieger</strong><br>
+          <strong>Lecture — Alex Silva</strong><br>
           Debugging Methods and Approaches
         </p>
       </td>
@@ -180,14 +172,18 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>8 — REMOTE</strong><br>
+          <strong>8</strong><br>
           Oct 16
+        </p>
+        <p>
+          <strong>Introduce</strong><br>
+          <a href="/final">Final Project</a>
         </p>
       </td>
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/recursion-search-sort/">Recursion, Search, and Sort</a>
+          <a href="/topics/modular-js/">Data and APIs</a>
         </p>
       </td>
       <td>
@@ -206,7 +202,7 @@
       </td>
       <td>
         <p>
-          <strong>Guest Lecture — Jack Rieger</strong><br>
+          <strong>Lecture — Jack Rieger</strong><br>
           CMS
         </p>
       </td>
@@ -231,11 +227,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/recursion-search-sort/">Finish sorting and recursion</a>
-        </p>
-        <p>
-          <strong>Introduce</strong><br>
-          <a href="/final">Final Project</a>
+          <a href="/topics/recursion-search-sort/">Recursion, Search, and Sort</a>
         </p>
       </td>
       <td>
@@ -255,7 +247,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/modular-js/">Modular JS and Data</a>
+          <a href="/topics/modular-js/">Modular JS</a> and <a href="/topics/vue/">Vue</a>
         </p>
       </td>
       <td>
@@ -279,7 +271,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/vue/">Vue</a>
+          <a href="/topics/vue/">Vue continued</a>
         </p>
         <p><strong>Q&A</strong></p>
       </td>
