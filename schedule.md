@@ -41,9 +41,6 @@
           <strong>Homework</strong><br>
           <a href="/assignments#a1-hello-world">A1: Hello, World!</a>
         </p>
-        <p>
-          Fork the <a href="https://github.com/psam3210/.github">class repository</a> and edit your entry in <code>people.md</code>. Include your preferred name, pronouns, and a brief introduction.
-        </p>
       </td>
     </tr>
     <tr valign="top">

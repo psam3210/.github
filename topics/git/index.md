@@ -171,4 +171,18 @@ After a few minutes, we’ll refresh the `Pages` page and if it all goes well, w
 
 ## Forking
 
-Forking is a part of OSS.
+<br><br>
+<figure align="center">
+  <img src="borges.jpg">
+  <figcaption>Not this one…</figcaption>
+</figure>
+<br><br>
+
+[Forking](https://en.wikipedia.org/wiki/Fork_(software_development)) is another term that is derived from our tree metaphor that git relies on. It is a practice that’s commonly used in open source software (OSS) which allows contributors:
+
+1. “Fork” a copy of the code into their own separate repository
+2. Make modifications to the code and preview those changes
+3. Create a “Pull Request” back to the original code
+
+
+> Fork the [class repository](https://github.com/psam3210/.github) and edit your entry in <code>people.md</code>. Include your preferred name, pronouns, and a brief introduction (such as your favorite HTML element).
