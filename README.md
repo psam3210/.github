@@ -5,11 +5,11 @@ Parsons 2 W 13th, Room 1201
 
 **Instructor**  
 Eric Li  
-lie@newschool.edu
+[lie@newschool.edu](mailto:lie@newschool.edu)
 
 **Teaching Assistant**  
 Alex Silva  
-silva892@newschool.edu
+[silva892@newschool.edu](mailto:silva892@newschool.edu)
 
 **Links**
 - [Schedule](/schedule)
