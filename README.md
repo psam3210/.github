@@ -22,6 +22,7 @@ Alex Silva
 - [GitHub](https://github.com/psam3210)
 - [Slack](https://cdstudiojavascript.slack.com/)
 - [Zoom](https://NewSchool.zoom.us/j/96906093274?pwd=NFE0UDdaUU5MTDltRmQxQzZ0SDZSZz09)
+- [Recordings](https://drive.google.com/drive/folders/1yQhtwZFn6-z4ijKh1vm7fBkEpE-XCU-3?usp=sharing)
 - [Syllabus](https://docs.google.com/document/d/13kqMjHCOCMI5cz3JOk_Cfyrvyk6O-NcRLMf-rvvwiaA/edit?usp=sharing)
 
 ## Description
