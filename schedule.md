@@ -41,6 +41,9 @@
           <strong>Homework</strong><br>
           <a href="/assignments#a1-hello-world">A1: Hello, World!</a>
         </p>
+        <p>
+          Complete any steps from the welcome email you haven’t done yet.
+        </p>
       </td>
     </tr>
     <tr valign="top">
