@@ -13,9 +13,6 @@
           <strong>1</strong><br>
           Aug 28
         </p>
-        <p>
-          <strong><a href="#">Recording</a></strong>
-        </p>
       </td>
       <td>
         <p>
