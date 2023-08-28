@@ -26,11 +26,11 @@ In this brief tutorial, we’ll go over creating a repository, and committing so
 </figure>
 <br><br>
 
-Navigate [here](https://github.com/new). You can also click the `+` button in the top right part of the navigation to create a new respository.
+Navigate [here](https://github.com/new). You can also click the `+` button in the top right part of the navigation to create a new repository.
 
 > A repository is a central location for your code to live in. It stores the current state of the code, as well as any previous versions you may want to keep
 
-On this page, set the repository name to something creative or unimaginative, like `example-respository`. Also check `Add a README file`. This will create the repository with a `README` that details the information about the repository. Click **Create Repository**.
+On this page, set the repository name to something creative or unimaginative, like `example-repository`. Also check `Add a README file`. This will create the repository with a `README` that details the information about the repository. Click **Create Repository**.
 
 <br><br>
 <figure align="center">
