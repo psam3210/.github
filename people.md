@@ -18,8 +18,6 @@
 - Aarya Kini
 - Themis Kung
 - James Spitzenberger
-- Pande M. Suryani
 - Deeva Thomas
-- Sage Y. Won
 - Tong Wu
 - Haiyu Zhou
