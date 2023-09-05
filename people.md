@@ -8,6 +8,7 @@
   
 **Students**
 
+- Anna Bui
 - Ivy Chen
 - Sizhen Chen
 - Yuntong Chen
@@ -15,6 +16,7 @@
 - Noah S. Farjani
 - Hina Fernstrom
 - Olivia Hu
+- Vanessa Kang
 - Aarya Kini
 - Themis Kung
 - James Spitzenberger
