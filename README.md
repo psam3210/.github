@@ -5,7 +5,8 @@ Parsons 2 W 13th, Room 1201
 
 **Office Hours**  
 Tuesdays, 1–2 pm  
-Fridays, 4–5 pm
+Fridays, 4–5 pm  
+*See Slack for location details. Will change weekly until we have a better solution in place.*
 
 **Instructor**  
 Eric Li  
