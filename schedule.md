@@ -75,6 +75,10 @@
           What is code?
         </p>
         <p>
+          <strong>Demo</strong><br>
+          Wrap up <a href="/topics/git/">Git</a>
+        </p>
+        <p>
           <strong>Lecture</strong><br>
           <a href="/topics/loops-and-arrays">Loops and arrays</a>
         </p>
