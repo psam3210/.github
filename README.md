@@ -3,6 +3,10 @@
 Mondays, 9:00 am – 11:40 am  
 Parsons 2 W 13th, Room 1201
 
+**Office Hours**  
+Tuesdays, 1–2 pm  
+Fridays, 4–5 pm
+
 **Instructor**  
 Eric Li  
 [lie@newschool.edu](mailto:lie@newschool.edu)
