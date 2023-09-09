@@ -13,7 +13,7 @@ You’ll complete a series of 3 quick exercises intended to familiarize yourself
 
 **Due September 11**
 
-### A2: Loops
+### [A2: Loops](https://classroom.github.com/a/gBYdgtmX)
 
 Using loops, write code that accomplishes the following exercises:
 
