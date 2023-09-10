@@ -334,7 +334,7 @@ What do you think happens if we switch the order of the for loops?
 ```js
 for (let j = 0; j < suit.length; j++) {
   for (let i = 0; i < rank.length; i++) {
-    deck[13*i + j] = rank[i] + rank[j];
+    deck[13*j + i] = rank[i] + suit[j];
   }
 }
 ```
