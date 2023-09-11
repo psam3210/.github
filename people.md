@@ -17,7 +17,7 @@
 - Noah S. Farjani
 - Hina Fernstrom
 - Olivia Hu
-- Aarya Kini
+- Aarya Kini (she/they) is a scallywag and mischief-maker. They like wreaking havoc and being a menace. They want to code some cool stuff with cool people and that's why they're here.
 - Themis Kung
 - James Spitzenberger
 - Deeva Thomas
