@@ -22,4 +22,4 @@
 - James Spitzenberger
 - Deeva Thomas
 - Tong Wu
-- Haiyu Zhou
+- Haiyu Zhou (she/her/hers)
