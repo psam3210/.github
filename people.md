@@ -20,6 +20,6 @@
 - Aarya Kini
 - Themis Kung
 - James Spitzenberger
-- Deeva Thomas (she/her) is a junior majoring in CD! She likes to sketch, listen to music and play piano.
+- Deeva Thomas (she/her) is a junior majoring in CD! She likes to sketch, and try new food!!
 - Tong Wu
 - Haiyu Zhou
