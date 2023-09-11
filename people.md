@@ -12,7 +12,7 @@
 - Anna Bui
 - Ivy Chen
 - Sizhen Chen
-- Yuntong Chen
+- Yuntong Chen she,her, communication design senior at Parsons 
 - Jia Choi
 - Noah S. Farjani
 - Hina Fernstrom
@@ -23,3 +23,4 @@
 - Deeva Thomas
 - Tong Wu
 - Haiyu Zhou
+
