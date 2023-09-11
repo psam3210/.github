@@ -8,7 +8,7 @@
   
 **Students**
 
-- Shravani Bagawde
+- Shravani Bagawde (she/her) is a senior majoring in Communication Design at Parsons.
 - Anna Bui
 - Ivy Chen
 - Sizhen Chen
