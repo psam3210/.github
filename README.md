@@ -98,6 +98,11 @@ As CD-program tutors are available only a limited number of hours per week, it i
 
 Additional code help can be found via the [University Learning Center](https://www.newschool.edu/learning-center/) (ULC) which has tutors who hold regular office hours.
 
+#### Digital Design @ Parsons
+
+[Digital Design @ Parsons](https://ddap.xyz/) (DD@P) is a student club led by Graeme Mounsey and Alex, bringing together anyone interested in digital design, UX, and code. It offers lectures with professionals working with digital design and student-led workshops in a variety of topics. We meet Wednesdays from 4-6pm!
+
+
 ### Code plagiarism
 
 Students may find code similar to our exercises or projects elsewhere online. But the copying or adapting of any code beyond our provided course material (lectures, exercises, demos) without attribution is not allowed under any circumstances. If adapting, with attribution, students must explain the usage and demonstrate an understanding of how it works. There is zero tolerance for any sort of plagiarism—which ranges from “verbatim copying” (cutting-and-pasting code) to “thorough paraphrasing” (changing names or rearranging code). Students should also review the *Academic Honesty and Integrity* policies.
