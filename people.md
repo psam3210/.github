@@ -11,7 +11,7 @@
 - Shravani Bagawde
 - Anna Bui
 - Ivy Chen
-- Sizhen Chen
+- Sizhen Chen (she/her) is a junior student from Communication Design.
 - Yuntong Chen
 - Jia Choi
 - Noah S. Farjani
