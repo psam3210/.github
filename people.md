@@ -16,7 +16,7 @@
 - Jia Choi
 - Noah S. Farjani
 - Hina Fernstrom
-- Olivia Hu
+- Olivia Hu (she/her) is a senior in CD at Parsons School of Design.
 - Aarya Kini
 - Themis Kung
 - James Spitzenberger
