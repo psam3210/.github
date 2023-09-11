@@ -15,7 +15,7 @@
 - Yuntong Chen
 - Jia Choi
 - Noah S. Farjani
-- Hina Fernstrom
+- Hina Fernstrom (she/her) is a student at parsons school of design studying communications design. 
 - Olivia Hu
 - Aarya Kini
 - Themis Kung
