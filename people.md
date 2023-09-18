@@ -14,7 +14,7 @@
 - Sizhen Chen
 - Yuntong Chen
 - Jia Choi
-- Noah S. Farjani
+- Noah S. Farjani (he/him) a Senior in the Communication Design program at Parsons in NYC. As a multidisciplinary artist and designer, he is always searching for new ways to tell stories.
 - Hina Fernstrom
 - Olivia Hu
 - Aarya Kini
