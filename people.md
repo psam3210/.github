@@ -11,7 +11,7 @@
 - Shravani Bagawde (she/her) is a senior majoring in Communication Design at Parsons.
 - Anna Bui
 - Ivy Chen She/her parsons cd2025
-- Sizhen Chen
+- Sizhen Chen (she/her) is a junior year student from Communication Design.
 - Yuntong Chen
 - Jia Choi
 - Noah S. Farjani (he/him) a Senior in the Communication Design program at Parsons in NYC. As a multidisciplinary artist and designer, he is always searching for new ways to tell stories.
