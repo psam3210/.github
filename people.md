@@ -18,7 +18,7 @@
 - Hina Fernstrom
 - Olivia Hu
 - Aarya Kini
-- Themis Kung
+- Themis Kung (she/they) is a Senior in Communication Design. 
 - James Spitzenberger
 - Deeva Thomas
 - Tong Wu
