@@ -12,7 +12,7 @@
 - Anna Bui
 - Ivy Chen She/her parsons cd2025
 - Sizhen Chen (she/her) is a junior year student from Communication Design.
-- Yuntong Chen
+- Yuntong Chen she,her, communication design senior at Parsons 
 - Jia Choi
 - Noah S. Farjani (he/him) a Senior in the Communication Design program at Parsons in NYC. As a multidisciplinary artist and designer, he is always searching for new ways to tell stories.
 - Hina Fernstrom (she/her) is a student at parsons school of design studying communications design. 
