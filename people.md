@@ -10,7 +10,7 @@
 
 - Shravani Bagawde
 - Anna Bui
-- Ivy Chen
+- Ivy Chen She/her parsons cd2025
 - Sizhen Chen
 - Yuntong Chen
 - Jia Choi
