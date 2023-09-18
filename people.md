@@ -22,4 +22,4 @@
 - James Spitzenberger
 - Deeva Thomas
 - Tong Wu (she/they) is a senior in CD at Parsons, she really like the idea and presence of apples but does not prefer to eat them as a fruit.
-- Haiyu Zhou
+- Haiyu Zhou (she/her/hers)
