@@ -25,7 +25,7 @@ Using loops, write code that accomplishes the following exercises:
 
 **Due September 18**
 
-### A3: N-Body (Pair)
+### [A3: N-Body (Pair)](https://classroom.github.com/a/P9MdIYTe)
 
 Implement an n-body simulation, which keeps track of the movements of the inner planets of our solar system. You’ll be provided an initial set of values and be responsible for updating the position, velocity, and acceleration of the planets using linear approximation.
 
