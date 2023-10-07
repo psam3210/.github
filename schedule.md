@@ -180,7 +180,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/modular-js/">Data and APIs</a>
+          <a href="/topics/data/">Data and APIs</a>
         </p>
         <p>
           <strong>Introduce</strong><br>
