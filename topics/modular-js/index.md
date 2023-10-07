@@ -16,7 +16,7 @@ Recall that we spent a lot of time discussing scope earlier this class. As a rul
 
 <br><br>
 <figure align="center">
-  <img src="global.jpg">
+  <img src="global.jpg" height="800">
   <figcaption>Why global variables are bad — a meme.</figcaption>
 </figure>
 <br><br>
