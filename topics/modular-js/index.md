@@ -6,9 +6,53 @@
 <br><br>
 
 
-# Modular JavaScript, and Data
+# Modular JavaScript
 
-So far, all of our JavaScript has been written in one file. If you were poking around some of the assignments, you may have noticed that I make use of `import` and `export` statements. These are all attempts to modularize my code. As we write bigger and more complex software, it makes sense to start breaking out our code into separate files. We’ll also take a look at where to store data beyond other JavaScript files.
+So far, all of our JavaScript has been written in one file. If you were poking around some of the assignments, you may have noticed that I make use of `import` and `export` statements. These are all attempts to modularize my code. As we write bigger and more complex software, it makes sense to start breaking out our code into separate files.
+
+## Scope
+
+Recall that we spent a lot of time discussing scope earlier this class. As a rule of thumb, you only scope variables and function at the highest level necessary.
+
+<br><br>
+<figure align="center">
+  <img src="global.jpg">
+  <figcaption>Why global variables are bad — a meme.</figcaption>
+</figure>
+<br><br>
+
+We want to avoid polluting the global namespace because at that level, you don’t know what is modifying your variables. This can be good if you explicitly have a shared object you want to be universally accesible, but in general should be avoided.
+
+When writing your initial entrypoint into a JavaScript program, you should always wrap it in an event listener for [`DOMContentLoaded`](https://developer.mozilla.org/en-US/docs/Web/API/Document/DOMContentLoaded_event). This allows you to:
+
+1. Scope variables and functions out of the global namespace.
+2. Ensure that any JavaScript is run after the browser is aware of the DOM tree.
+3. Create less brittle code which doesn’t have to be placed before or after any specific DOM elements.
+
+```js
+document.addEventListener('DOMContentLoaded', () => {
+  let courseName = 'PSAM3210';
+  console.log(courseName);
+})
+
+console.log(courseName); // This gives us an error, as expected!
+```
+
+`DOMContentLoaded` is an event which gets called by the browser once the HTML of a page has been parsed and all scripts with the `defer` attribute have been executed. It’s really great because it guarantees your script will be consistently executed at the same point each time the page loads.
+
+### A Note on `async` and `defer`
+
+You may notice that sometimes you’ll see script tags with the following attributes:
+
+```html
+<script src="script.js" async></script>
+<script src="script.js" defer></script>
+```
+
+`async` tells the browser to fetch this script in parallel to its other p=operations (like rendering a page). Once the file has been fetched, the script will run immediately. By fetching the script `async` you prevent a large JS file from blocking key browser metrics like [First Paint](https://developer.mozilla.org/en-US/docs/Glossary/First_paint).
+
+`defer` tells the browser to also asynchronously fetch a script, but also defer the execution of the script until after the HTML has been parsed. Any scripts with `defer` will be run immediately before `DOMContentLoaded` is called.
+
 
 ## Modules
 
@@ -145,119 +189,3 @@ As some of you may have seen, we use `npm` and `node` to run the course assignme
 If we want to pull in external frameworks, we’ll often make use of something called [Webpack](https://webpack.js.org/) to bundle the node modules in with our JavaScript. Think of this tool as something that merges all our code into one big JavaScript file that a browser can use.
 
 While we won’t get more into specifics, I would encourage you to check out this [tutorial](https://webpack.js.org/guides/getting-started/) to learn more.
-
----
-## Data
-
-Data is a collection of discrete values that convey information. The entire internet is founded on the flow of information and data. We’ve encountered data before, using Objects and Arrays to store values into data structures that our programs can manipulate.
-
-At its core, data is stored in some abstraction that supports [CRUD](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete) operations. CRUD stands for:
-
-- **Create** a new piece of data
-- **Read** an existing set of data
-- **Update** an existing piece of data
-- **Delete** an existing piece of data
-
-Today, we’ll discuss how data can be managed and stored using JavaScript.
-
-## Local Storage
-
-[`localStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) allows us to persist data in the browser. It is associated with web addresses, and lets us keep track of data without having to use a database. 
-
-`localStorage` encapsulates a [`Storage`](https://developer.mozilla.org/en-US/docs/Web/API/Storage) object. There is also [`sessionStorage`](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage) which persists data until the session ends (however long a person spends on a website).
-
-```js
-// Create
-localStorage.setItem('myCat', 'Tom');
-
-// Read
-const cat = localStorage.getItem('myCat');
-
-// Update
-localStorage.setItem('myCat', 'Neko');
-
-// Delete
-localStorage.removeItem('myCat');
-```
-
-## APIs
-
-An [Application Programming Interface](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction) (API) is are constructs made available in programming languages to allow developers to create complex functionality more easily. 
-
-APIs abstract more complex code away, providing some easier syntax to use in its place. An API has two parts: it has a specification and an implementation. The implementation is expected to follow the rules of the specification. 
-
-We’ve already used APIs before, such as `document.querySelector()` or `Math.random()`. The W3C, a group of industry professionals, creates an API specification. Then, web browsers are expected to implement this specification. 
-
-These days, APIs are used to communicate back and forth with external data sources. Web APIs exist as specific URLs that you construct to get the data you want. Here are two examples:
-
-- [Weather](https://open-meteo.com/en/docs#api-documentation)
-- [Are.na](https://dev.are.na/documentation)
-
-These above are links to the documentation or specification of the API. They delinate instructions for using the API (sending queries), as well as how you should expect the data to be returned back to you.
-
-For our purposes, we can expect all API response to be returned back to us in JavaScript Object Notation (JSON).
-
-We’ve also used JSON before! To set the style of an element `myEl`, we do:
-
-```js
-myEl.style.backgroundColor = 'green';
-myEl["style"]["backgroundColor"] = 'green';
-```
-
-In this case, `myEl` is an object, `style` is a property of `myEl`, but is also an object, and `backgroundColor` is a property of `style`. We can reconstruct this abstraction in JSON as such:
-
-```js
-myEl = {
-  'style': {
-    'backgroundColor': 'green',
-    'fontSize': '14px',
-    'marginTop': '36px',
-  }
-};
-
-```
-
-## `fetch()`
-
-To request data from another URL, we use the JavaScript [`fetch()`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) function. When `fetch()` is called, it returns an asynchronous [promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) which will resolve when the data is returned back. Promises and asynchronous functions are out of the scope of this course.
-
-```js
-// A simple example of using fetch with arrow functions.
-fetch('http://example.com/movies.json')
-  .then((response) => response.json())
-  .then((data) => console.log(data));
-```
-
-## Fetching from Are.na
-
-Let’s take a look Meg Miler’s Are.na channel, [Good Sign-Offs](https://www.are.na/meg-miller/good-sign-offs). It has a unique channel slug `good-sign-offs`. We can look at Are.na’s [API](https://dev.are.na/documentation/channels#Block43472) and determine that if you visit the URL `https://api.are.na/v2/channels/[slug]`, you can get a JSON representation of the channel
-
-<br><br>
-<figure align="center">
-  <img src="api-response.png" height="400">
-  <figcaption>Response from Are.na for the below code.</figcaption>
-</figure>
-<br><br>
-
-```js
-let slug = 'good-sign-offs';
-let url = `https://api.are.na/v2/channels/${slug}?per=100`;
-
-fetch(url)
-  .then((response) => response.json())
-  .then((data) => {
-    // Print out all the data
-    console.log(data);
-
-    // Print out the title property of the data
-    console.log(data.title);
-
-    // Gets the blocks
-    let blocks = data.contents;
-    blocks.forEach((block) => {
-      // Prints out the content of the blocks
-      console.log(block.content)
-    })
-  });
-
-```
