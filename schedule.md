@@ -160,7 +160,7 @@
       <td>
         <p>
           <strong>Lecture — Alex Silva</strong><br>
-          Debugging Methods and Approaches
+          <a href="/topics/shortcuts-and-debugging">Debugging Methods and Approaches</a>
         </p>
       </td>
       <td>
