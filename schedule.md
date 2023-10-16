@@ -248,7 +248,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/modular-js/">Modular JS</a> and <a href="/topics/vue/">Vue</a>
+          <a href="/topics/modular-js/">Modular JS</a> and <a href="/topics/data/">APIs</a>
         </p>
       </td>
       <td>
@@ -272,7 +272,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/vue/">Vue continued</a>
+          <a href="/topics/vue/">Vue</a>
         </p>
         <p><strong>Q&A</strong></p>
       </td>
