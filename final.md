@@ -16,7 +16,7 @@ Your final project submission should be a link to the website and your project r
 
 Either alone or with a partner, write a proposal (200 words or less) outlining a piece of software which lets you use the internet mindfully. Your proposal should include background context and the problem at hand, as well as what your software will do and how it will address (conceptually, practically, etc) the problem you outlined. As you develop your proposal, consider how the project will incorporate design and interactivity. 
 
-This will be due as a Google Doc, shared with me by the beginning of class on October 27 over Slack. This Google Doc will serve as a home base for your project, and will link to your Figma sketches, prototype, user research, and website.
+This will be due as a Google Doc, shared with me by the beginning of class over Slack. This Google Doc will serve as a home base for your project, and will link to your Figma sketches, prototype, user research, and website.
 
 **Due October 30**
 
