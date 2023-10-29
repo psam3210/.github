@@ -10,6 +10,10 @@
 - [Recursion, Search, and Sort](/topics/recursion-search-sort/)
 - [Modular JavaScript](/topics/modular-js/)
 - [Vue](/topics/vue/)
+
 ## Demos
 
 - [Git](/topics/git)
+
+## Past Midterms
+- Fall 2022 [Exam](/midterms/f22.pdf), [Solutions](/midterms/f22-solutions.pdf)
