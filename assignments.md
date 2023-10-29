@@ -47,7 +47,7 @@ You may choose to complete this assignment individually or with a partner.
 
 **Due October 23**
 
-### A5: Sierpinski (Pair)
+### [A5: Sierpinski (Pair)](https://classroom.github.com/a/R7lxCte_)
 
 Implement a Sierpinski triangle which renders in an HTML Canvas by recursively calling itself again and again. A user should be able to specify the level of detail (n) that the triangle renders at.
 
