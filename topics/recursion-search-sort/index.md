@@ -393,6 +393,6 @@ The heuristic for merge sort is very similar to binary search — a subdivide an
   }
 ```
 
-What’s the running time of merge sort? Since we are doing a similar divide and conquer, we can determine its running time is `O(logN)`. This means that if we need to first sort, then search an array, our worst case run time is still just `O(logN)`. 
+What’s the running time of merge sort? Since we are doing a similar divide and conquer, we can determine its running time is `O(NlogN)`. This means that if we need to first sort, then search an array, our worst case run time is `O(NlogN)` (this is the worse of the two). 
 
 Want to learn more about this? Take a [data structures and algorithms](https://www.coursera.org/learn/algorithms-part1) class.
