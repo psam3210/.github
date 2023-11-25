@@ -309,7 +309,7 @@
       <td>
         <p>
           <strong>14</strong><br>
-          Dec 27
+          Nov 27
         </p>
         <p>
           <strong>Due</strong><br>
@@ -361,6 +361,9 @@
       <td>
         <p>
           <strong>Final Reviews</strong>
+        </p>
+        <p>
+          Guest Critic: <a href="https://nazli-ercan.com/">Nazlı Ercan</a>
         </p>
       </td>
       <td>
