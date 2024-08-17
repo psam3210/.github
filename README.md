@@ -1,20 +1,11 @@
 ![Plugin icon - 2](https://user-images.githubusercontent.com/207651/186977711-6ffcf270-021a-45ab-88ea-476c54c90643.png)
 
 Mondays, 9:00 am – 11:40 am  
-Parsons 2 W 13th, Room 1201
-
-**Office Hours**  
-Tuesdays, 1–2 pm  
-Fridays, 4–5 pm  
-6 E 16th, Room 904 
+Parsons 2 W 13th, Room 401
 
 **Instructor**  
 Eric Li  
 [lie@newschool.edu](mailto:lie@newschool.edu)
-
-**Teaching Assistant**  
-Alex Silva  
-[silva892@newschool.edu](mailto:silva892@newschool.edu)
 
 **Links**
 - [Schedule](/schedule)
@@ -89,18 +80,12 @@ Students are expected to actively and passionately participate in this course. T
 
 I will have limited availability outside of our class time, and won’t keep scheduled “office hours.” Students should not rely on me to solve specific design or technical problems. Their first resource should be themselves, then the course site and its materials, and then each other. If there are still questions—such as logistical or content ones—students can message me on Slack, and I will respond when I can. But this should never be a bottleneck; all of this works better when not done at the last minute.
 
-This semester, we are lucky to have a teaching assistant Alex Silva to help us out. He should be seen as a resource for help, technical questions, and debugging and will hold office hours once a week. Attending these office hours is strongly encouraged as guidance on assignments will be covered in detail. However, this is not a blank check to go to him for any issues you encounter — similar to myself, you should first rely on yourself and available resources, before going to him for help.
-
 ### Additional technical help
  For additional specific technical instruction and questions, Parsons has dedicated CD-program tutors available to help students with HTML, CSS, and JavaScript, as well as offering general design critiques and feedback. The drop-in schedules are available in the [CD@Parsons](https://cdparsons.glideapp.io) app under “Make & Remake.” 
 
 As CD-program tutors are available only a limited number of hours per week, it is advisable to start on your projects early and seek help early to avoid the usual end of project/semester rush for additional help.
 
 Additional code help can be found via the [University Learning Center](https://www.newschool.edu/learning-center/) (ULC) which has tutors who hold regular office hours.
-
-#### Digital Design @ Parsons
-
-[Digital Design @ Parsons](https://ddap.xyz/) (DD@P) is a student club led by Graeme Mounsey and Alex, bringing together anyone interested in digital design, UX, and code. It offers lectures with professionals working with digital design and student-led workshops in a variety of topics. We meet Wednesdays from 4-6pm!
 
 
 ### Code plagiarism
