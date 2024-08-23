@@ -11,7 +11,6 @@
 - Enkhjin Erdenebat
 - William Hsu
 - Aviv Kestin
-- Kelly Kim
 - Marcus Kim
 - Cheryl Ma
 - Ashley Panichapat
