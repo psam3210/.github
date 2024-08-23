@@ -10,8 +10,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>1</strong><br>
-          Aug 28
+          <strong>1 — Virtual</strong><br>
+          Aug 26
         </p>
       </td>
       <td>
@@ -22,11 +22,7 @@
         </p>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/js-basics/">JavaScript Basics</a>
-        </p>
-        <p>
-          <strong>Demo</strong><br>
-          <a href="/topics/git/">Git</a>
+          <a href="/topics/what-is-javascript/">What is JavaScript, anyways?</a>
         </p>
       </td>
       <td>
@@ -36,9 +32,6 @@
         </p>
         <p>
           <strong>Homework</strong><br>
-          <a href="/assignments#a1-hello-world">A1: Hello, World!</a>
-        </p>
-        <p>
           Complete any steps from the welcome email you haven’t done yet.
         </p>
       </td>
@@ -47,7 +40,7 @@
       <td>
         <p>
           <strong>2</strong><br>
-          Sept 4
+          Sept 2
         </p>
       </td>
       <td>
@@ -62,11 +55,7 @@
       <td>
         <p>
           <strong>3</strong><br>
-          Sept 11
-        </p>
-        <p>
-          <strong>Due</strong><br>
-          A1
+          Sept 9
         </p>
       </td>
       <td>
@@ -75,18 +64,18 @@
           What is code?
         </p>
         <p>
-          <strong>Demo</strong><br>
-          Wrap up <a href="/topics/git/">Git</a>
+          <strong>Lecture</strong><br>
+          <a href="/topics/js-basics/">JavaScript Basics</a>
         </p>
         <p>
-          <strong>Lecture</strong><br>
-          <a href="/topics/loops-and-arrays">Loops and arrays</a>
+          <strong>Demo</strong><br>
+          <a href="/topics/git/">Git</a>
         </p>
       </td>
       <td>
         <p>
           <strong>Homework</strong><br>
-          <a href="/assignments#a2-loops">A2: Loops</a>
+          <a href="/assignments#a1-hello-world">A1: Hello, World!</a>
         </p>
       </td>
     </tr>
@@ -94,7 +83,31 @@
       <td>
         <p>
           <strong>4</strong><br>
-          Sept 18
+          Sept 16
+        </p>
+        <p>
+          <strong>Due</strong><br>
+          A1
+        </p>
+      </td>
+      <td>
+        <p>
+          <strong>Lecture</strong><br>
+          <a href="/topics/loops-and-arrays">Loops and arrays</a>
+        </p>
+      </td>
+      <td>
+        <p>
+          <strong>Homework</strong><br>          
+          <a href="/assignments#a2-loops">A2: Loops</a>
+        </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td>
+        <p>
+          <strong>5</strong><br>
+          Sept 23
         </p>
         <p>
           <strong>Due</strong><br>
@@ -103,24 +116,8 @@
       </td>
       <td>
         <p>
-          <strong>Lecture — Michael Fehrenbach</strong><br>
-          <a href="/topics/what-is-javascript/">What is JavaScript, anyways?</a>
-        </p>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <p>
-          <strong>5</strong><br>
-          Sept 25
-        </p>
-      </td>
-      <td>
-        <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/functions-dom/">Functions, Objects, and DOM</a>
+          <a href="/topics/functions-dom/">Functions and Objects</a>
         </p>
       </td>
       <td>
@@ -134,13 +131,14 @@
       <td>
         <p>
           <strong>6</strong><br>
-          Oct 2
+          Sept 30
         </p>
       </td>
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/event-listeners-adt">Event Listeners and Abstract Data Types</a>
+          <a href="/topics/functions-dom/">Document Object Model</a><br>
+          <a href="/topics/event-listeners-adt">Event Listeners</a>
         </p>
       </td>
       <td>
@@ -150,7 +148,7 @@
       <td>
         <p>
           <strong>7</strong><br>
-          Oct 9
+          Oct 7
         </p>
         <p>
           <strong>Due</strong><br>
@@ -159,8 +157,8 @@
       </td>
       <td>
         <p>
-          <strong>Lecture — Alex Silva</strong><br>
-          <a href="/topics/shortcuts-and-debugging">Debugging Methods and Approaches</a>
+          <strong>Lecture</strong><br>
+          <a href="/topics/event-listeners-adt">Abstract Data Types</a>
         </p>
       </td>
       <td>
@@ -174,17 +172,13 @@
       <td>
         <p>
           <strong>8</strong><br>
-          Oct 16
+          Oct 14
         </p>
       </td>
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/data/">Data and APIs</a>
-        </p>
-        <p>
-          <strong>Introduce</strong><br>
-          <a href="/final">Final Project</a>
+          <a href="/topics/recursion-search-sort/">Recursion, Search, and Sort</a>
         </p>
       </td>
       <td>
@@ -194,7 +188,7 @@
       <td>
         <p>
           <strong>9</strong><br>
-          Oct 23
+          Oct 21
         </p>
         <p>
           <strong>Due</strong><br>
@@ -203,32 +197,8 @@
       </td>
       <td>
         <p>
-          <strong>Lecture — Jack Rieger</strong><br>
-          CMS
-        </p>
-      </td>
-      <td>
-        <p>
-          <strong>Homework</strong><br>
-          Final project proposals
-        </p>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <p>
-          <strong>10</strong><br>
-          Oct 30
-        </p>
-        <p>
-          <strong>Due</strong><br>
-          Final project proposals
-        </p>
-      </td>
-      <td>
-        <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/recursion-search-sort/">Recursion, Search, and Sort</a>
+          <a href="/topics/data/">Data and APIs</a>
         </p>
       </td>
       <td>
@@ -241,28 +211,32 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>11</strong><br>
-          Nov 6
+          <strong>10</strong><br>
+          Oct 28
         </p>
       </td>
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/modular-js/">Modular JS</a> and <a href="/topics/data/">APIs</a>
+          <a href="/topics/modular-js/">Modular JS</a>
+        </p>
+        <p>
+          <strong>Introduce</strong><br>
+          Final Project
         </p>
       </td>
       <td>
         <p>
           <strong>Homework</strong><br>
-          Final project sketches
+          Final Project Proposals
         </p>
       </td>
     </tr>
     <tr valign="top">
       <td>
         <p>
-          <strong>12</strong><br>
-          Nov 13
+          <strong>11</strong><br>
+          Nov 4
         </p>
         <p>
           <strong>Due</strong><br>
@@ -272,36 +246,66 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/vue/">Vue</a>
+           <a href="/topics/vue/">Vue</a>
         </p>
-        <p><strong>Q&A</strong></p>
+        <p>
+          <strong>Q&A</strong>
+        </p>
       </td>
       <td>
         <p>
           <strong>Homework</strong><br>
-          Study for midterm
+          Study for Midterm
         </p>
       </td>
     </tr>
     <tr valign="top">
       <td>
         <p>
-          <strong>13</strong><br>
-          Nov 20
+          <strong>12</strong><br>
+          Nov 11
+        </p>
+        <p>
+          <strong>Due</strong><br>
+          Final Project Proposals
         </p>
       </td>
       <td>
         <p>
-          <strong>Midterm</strong>
+          <strong>Midterm</strong><br>
         </p>
         <p>
-          <strong>Present sketches</strong>
+          <strong>Lecture</strong><br>
+          <a href="/topics/shortcuts-and-debugging">Debugging Methods and Approaches</a>
         </p>
       </td>
       <td>
         <p>
           <strong>Homework</strong><br>
-          User testing and research
+          Final Project Sketches
+        </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td>
+        <p>
+          <strong>13 — Virtual</strong><br>
+          Nov 18
+        </p>
+        <p>
+          <strong>Due</strong><br>
+          Final Project Sketches
+        </p>
+      </td>
+      <td>
+        <p>
+          <strong>Student Meetings</strong>
+        </p>
+      </td>
+      <td>
+        <p>
+          <strong>Homework</strong><br>
+          User testing and Code
         </p>
       </td>
     </tr>
@@ -309,7 +313,7 @@
       <td>
         <p>
           <strong>14</strong><br>
-          Nov 27
+          Nov 25
         </p>
         <p>
           <strong>Due</strong><br>
@@ -318,21 +322,17 @@
       </td>
       <td>
         <p>
-          <strong>Working</strong>
+          <strong>Guest Lecture, TBD</strong>
         </p>
       </td>
       <td>
-        <p>
-          <strong>Homework</strong><br>
-          Final Project
-        </p>
       </td>
     </tr>
     <tr valign="top">
       <td>
         <p>
           <strong>15</strong><br>
-          Dec 4
+          Dec 2
         </p>
       </td>
       <td>
@@ -341,17 +341,13 @@
         </p>
       </td>
       <td>
-        <p>
-          <strong>Homework</strong><br>
-          Final Project
-        </p>
       </td>
     </tr>
     <tr valign="top">
       <td>
         <p>
           <strong>16</strong><br>
-          Dec 11
+          Dec 9
         </p>
         <p>
           <strong>Due</strong><br>
@@ -361,9 +357,6 @@
       <td>
         <p>
           <strong>Final Reviews</strong>
-        </p>
-        <p>
-          Guest Critic: <a href="https://nazli-ercan.com/">Nazlı Ercan</a>
         </p>
       </td>
       <td>
