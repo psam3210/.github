@@ -20,3 +20,4 @@
 - Aarthika Solayappan
 - Serena Wan
 - Olivia Weissflog
+- Hallie Young
