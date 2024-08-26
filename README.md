@@ -39,13 +39,11 @@ By the end of the semester, students should be able to:
 
 ## Community Agreement
 
-**To be completed on the first day.**
-
-- _Be respectful of each others’ comfort levels with coding._
-- _Be engaged and give each other meaningful feedback._
-- _Create a good environment where we can help each other and feel comfortable getting through questions either in Slack or elsewhere._
-- _Show up for each other in group projects._
-- _Respect the class environment — if your phone rings, step out so as not to disrupt the class. If people are speaking, we give them the room — laptops closed and undivided attention._
+- Be respectful of each others’ comfort levels with coding.
+- Be engaged and give each other meaningful feedback.
+- Create a good environment where we can help each other and feel comfortable getting through questions either in Slack or elsewhere.
+- Show up for each other in group projects.
+- Respect the class environment — if your phone rings, step out so as not to disrupt the class. If people are speaking, we give them the room — laptops closed and undivided attention.
 
 ## Grading
 
