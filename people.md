@@ -6,7 +6,6 @@
 
 **Students**
 
-- Kuhoo Bhatnagar
 - Minkyung Cho
 - Enkhjin Erdenebat
 - William Hsu
