@@ -7,7 +7,6 @@
 **Students**
 
 - Minkyung Cho
-- Enkhjin Erdenebat
 - William Hsu
 - Aviv Kestin
 - Marcus Kim
