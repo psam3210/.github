@@ -2,9 +2,7 @@
 
 Assignments for this course will appear below.
 
-## Unreleased
-
-### A1: Hello, World
+### [A1: Hello, World](https://classroom.github.com/a/m5UirBvV)
 
 You’ll complete a series of 3 quick exercises intended to familiarize yourself with JavaScript and its syntax. These exercises are more detailed in the assignment `README`, but they are as follows:
 
@@ -15,6 +13,8 @@ You’ll complete a series of 3 quick exercises intended to familiarize yourself
 _You will learn: Git, JavaScript, Variables, Coding style, String interpolation, Console_
 
 **Due September 16**
+
+## Unreleased
 
 ### A2: Loops
 
