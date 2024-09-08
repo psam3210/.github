@@ -6,16 +6,16 @@
 
 **Students**
 
+- Gaby Chen
 - Minkyung Cho
 - William Hsu
 - Aviv Kestin
 - Marcus Kim
-- Cheryl Ma
+- Kevin Li
+- Ruotong Lin
 - Ashley Panichapat
-- Jacqueline Pramana
 - Divyani Singh
 - Hiya Singh
 - Aarthika Solayappan
 - Serena Wan
-- Olivia Weissflog
 - Hallie Young
