@@ -10,7 +10,6 @@
 - Minkyung Cho
 - William Hsu
 - Aviv Kestin
-- Marcus Kim
 - Kevin Li
 - Ruotong Lin
 - Ashley Panichapat
