@@ -14,9 +14,7 @@ _You will learn: Git, JavaScript, Variables, Coding style, String interpolation,
 
 **Due September 16**
 
-## Unreleased
-
-### A2: Loops
+### [A2: Loops](https://classroom.github.com/a/FoLEQ_Mj)
 
 Using loops, write code that accomplishes the following exercises:
 
@@ -27,6 +25,8 @@ Using loops, write code that accomplishes the following exercises:
 _You will learn: Data manipulation, Conditional logic, Loops, Arrays_
 
 **Due September 23**
+
+## Unreleased
 
 ### A3: N-Body (Pair)
 
