@@ -13,7 +13,7 @@
 - Kevin Li
 - Ruotong Lin
 - Ashley Panichapat
-- Divyani Singh
+- Irisema Ramirez
 - Hiya Singh
 - Aarthika Solayappan
 - Serena Wan
