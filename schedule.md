@@ -117,7 +117,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/functions-dom/">Functions and Objects</a>
+          <a href="/topics/functions-objects/">Functions and Objects</a>
         </p>
       </td>
       <td>
@@ -137,8 +137,8 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/functions-dom/">Document Object Model</a><br>
-          <a href="/topics/event-listeners-adt">Event Listeners</a>
+          <a href="/topics/dom-event-listeners/">Document Object Model</a><br>
+          <a href="/topics/dom-event-listeners">Event Listeners</a>
         </p>
       </td>
       <td>
@@ -158,7 +158,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/event-listeners-adt">Abstract Data Types</a>
+          <a href="/topics/adt">Abstract Data Types</a>
         </p>
       </td>
       <td>

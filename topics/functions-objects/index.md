@@ -6,7 +6,7 @@
 <br><br>
 
 
-# Functions and DOM
+# Functions and Objects
 
 What have we learned so far?
 - Primitive data types and variable assignment
@@ -15,7 +15,7 @@ What have we learned so far?
 - Conditionals and Loops
 - Arrays
   
-Today we’ll focus on functions and visual manipulation of DOM. 
+Today we’ll focus on functions and objects. 
 
 ## Functions
 
@@ -257,88 +257,3 @@ let response = apiResponse['response'];
 let comments = response['comments'];
 comments[0] 
 ```
-
----
-
-## DOM
-
-One of the great things about JavaScript is that it gives us the ability to interact with the webpage. This happens because the language authors have designed *abstractions* for HTML and CSS so that we can interact with the webpage. This abstraction is also referred to as the [Document Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction) (DOM).
-
-### Accessing and Manipulating DOM
-
-Let’s say we have some HTML and we want to access certain elements. JavaScript has a `document` object, which represents the HTML code of our website that we can use to access certain elements within it. 
-
-```html
-<body>
-  <h1 id="heading">This is a heading.</h1>
-  <p>This is a paragraph.</p>
-  <p>This is another paragraph.</p>
-  <ul class="list">
-    <li class="list_item">List item 1</li>
-    <li class="list_item">List item 2</li>
-  </ul>
-</body>
-```
-
-```js
-  // Matches the first element with an id="heading" attribute
-  let h1 = document.getElementById('heading'); // Returns <h1>
-
-  // Selects the first element which matches the given CSS selector
-  let p = document.querySelector('p'); // Returns <p>
-  let div = document.querySelector('div'); // Returns null
-
-  // Selects the first element which matches the given CSS selector
-  let ps = document.querySelectorAll('p'); // Returns [<p>, <p>]
-  let divs = document.querySelectorAll('div'); // Returns []
-
-  // How do we access all list items?
-  let liEls= document.querySelectorAll('li');
-  let liEls = document.querySelectorAll('.list_item');
-  let liEls = document.querySelectorAll('.list > .list_item');
-```
-
-These functions all return objects which are JS representations of the HTML element itself. We can do things like…
-
-```html
-<body>
-  <h1 id="heading"><a href="/">This is a heading.</a></h1>
-</body>
-```
-
-```js
-  let h1 = document.getElementById('heading'); // Returns <h1>
-  h1.innerText; // Gets the rendered text contained within an element, This is a heading.
-  h1.innerHTML; // Gets the inner HTML of an element, <a href="/">This is a heading.</a>
-
-  h1.innerText = 'New heading'; // Sets the value of innerText of our h1 to 'New heading'
-  h1.innerHTML = '<a href="/">New heading</a>'; // Same here, but can use HTML elements
-
-  h1.style; // Gets the inline styles of an element.
-  window.getComputedStyle(h1); // Get all computed styles of the element. Window is used because it represents the visual, not the Document.
-
-  h1.style.color = 'red'; // Sets the color of the element to 'red'
-
-  // Sets the background color. You can either use CSS property names as in the first line, or camelCase the property as in the second line.
-  h1.style['background-color'] = 'green';
-  h1.style.backgroundColor = 'green';
-
-  // Use classList to add, remove, or toggle the red class on an element.
-  h1.classList.add('red');
-  h1.classList.remove('red');
-  h1.classList.toggle('red');
-```
-
-We can even manipulate the DOM by creating new elements in JavaScript. 
-
-```js
-  // Create a new div element.
-  const newDiv = document.createElement('div');
-  // Give it some copy.
-  newDiv.innerText = 'Hi, I’m a newly created element!';
-
-  // Add the element into the DOM.
-  document.body.appendChild(newDiv);
-```
-
-There is no way we can cover everything you can do — I would suggest querying Google with your questions, and seeing what StackOverflow, or MDN give you. 

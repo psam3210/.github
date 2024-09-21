@@ -6,140 +6,7 @@
 <br><br>
 
 
-# Event Listeners and Abstract Data Types
-
-## Manipulating DOM
-
-Last lecture we discussed how we can use JavaScript to access and manipulate the DOM of a webpage. Today, we’ll talk about how to handle user input, both via forms and via event listeners.
-
-## Form Inputs
-
-Let’s say we have an HTML form that a user has at their disposal, maybe something like…
-
-```html
-<form>
-  <div>
-    <label for="name">Enter your name: </label>
-    <input type="text" name="name" id="name" required>
-  </div>
-  <div>
-    <label for="email">Enter your email: </label>
-    <input type="email" name="email" id="email" required>
-  </div>
-  <div>
-    <input type="submit" value="Click me!">
-  </div>
-</form>
-```
-
-How would we access the current value of an input element? Well, we can do that by first selecting the element, and then getting it’s value. This approach applies to all input types, though most commonly via a textfield input.
-
-```js
-// We can use query selector and use CSS based attribute targeting to grab our input element.
-let nameInput = document.querySelector('input[name="name"]');
-let name = nameInput.value;
-
-// The same for email.
-let emailInput = document.querySelector('input[name="email"]');
-let email = emailInput.value;
-
-console.log(name, email);
-```
-
-> Let’s say we wanted to transform the name input into uppercase. What should we do before transforming the data? We need to check if there is anything in the input field first! This is because we have no guarantee the input field is filled.
-
-But let’s say we want to run this when the user clicks on the submit button. Well, we can use event listeners for this!
-
-## Event Listeners
-
-An [event listener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener) is a method which sets up a predefined function to be called back to when a specific event is triggered on the original element. We use the following syntax:
-
-```js
-let buttonEl = document.querySelector('input[type="submit"]');
-
-buttonEl.addEventListener('click', () => {
-  console.log('I’ve been clicked!');
-});
-```
-
-This adds an event listener to our button element, specifically on the `'click'` event. When that event occurs, we’ll print out the statement `I’ve been clicked!`. Breaking this down, we have:
-
-- `buttonEl` the target element
-- `.addEventListener()` the function to add an event listener, which takes two arguments.
-  - `'click'` the first argument defines the event to listen to. In this case, it’s the `'click'` event.
-  - `() =>{}` or `functionName` the second argument is a function which will get called when that event occurs. You can also declare a function elsewhere and pass that name here. Note that you don’t execute it here, so you don’t include the `()` that we usually use to call a function.
-
-There are other events you may use, such as `'input'`, `'mouseover'`,  `'mouseout'`, `'mousemove'`, `'scroll'`, `'keydown'`. 
-
-```js
-let emailInput = document.querySelector('input[name="email"]');
-let printEmail = () => {
-  console.log(emailInput.value);
-}
-
-// What will this do? It’ll print the value of the email field every time a user inputs something.
-emailInput.addEventListener('input', printEmail);
-```
-
-Using named functions for handling events is very useful in the case that we want to further modify that listener, or if we want to have multiple events point to the same handler.
-
-```js
-let nameInput = document.querySelector('input[name="name"]');
-let emailInput = document.querySelector('input[name="email"]');
-
-let handleInput = () => {
-  console.log(nameInput.value, emailInput.value);
-}
-
-// This will call the same function, but on different input events.
-nameInput.addEventListener('input', handleInput);
-emailInput.addEventListener('input', handleInput);
-
-```
-
-Let’s say you want to remove an event listener after you’ve created it. This might be because you only want behavior to work when an element is showing. We can use `.removeEventListener()` to do this. However, this’ll only work with named functions — anonymous functions won’t work!
-
-```js
-window.addEventListener('scroll', () => {
-  console.log('I am scrolling');
-});
-
-// This won’t work, because the anonymous function is pointing to a DIFFERENT function than the original event listener.
-window.removeEventListener('scroll', () => {
-  console.log('I am scrolling');
-});
-
-// This will work.
-const scrollHandler = () => {
-  console.log('I am scrolling');
-}
-
-window.addEventListener('scroll', scrollHandler);
-window.removeEventListener('scroll', scrollHandler);
-```
-
-Sometimes events can also pass in event objects to their handlers. This object represents certain attributes specific to that event. We can write handlers to handle that as well. A very common one is the keydown event, which handles keyboard input.
-
-```js
-document.addEventListener('keydown', (evt) => {
-  
-  // Logs out the key event.
-  console.log(evt);
-
-  // Checks which key was pressed.
-  if (evt.key === 'Escape') {
-    window.close();
-  }
-});
-```
-
-Between event listeners and DOM manipulation, we can do some pretty powerful things. In your next assignment, you’ll be asked to create a digital drawing program using only HTML elements. All of this can be handled via setting DOM properties using style attributes, and having event listeners handle user input.
-
-> You may have seen other ways to add event listeners to DOM elements, such as `buttonEl.onclick = () => {}`. We generally avoid this practice because it means we can never remove event listeners once we’ve added them. This also only lets us add one handler per event, when in fact we can have as many as we want.
-
----
-
-## Abstract Data Types
+# Abstract Data Types
 
 A **data type** is a set of values of a set of operations on those values. We’ve used these before, mainly the primitive data types of `Number`, `String`, and `Boolean`. These primitive data types map on to direct operations within the computer.
 
@@ -147,7 +14,7 @@ But as our programs become more complex, we may want to be able to represent oth
 
 We often used Object Oriented Programming (OOP) to implement our abstract data types. OOP provides us with objects that we can manipulate and modify. For example, we can represent an abstract representation of a Color, a Picture, or as we’ve used before in class, an Apple.
 
-### Using data types
+## Using data types
 
 ```js
 let a = new Array(10);
@@ -172,7 +39,7 @@ Many built in objects have a robust documentation in MDN on which properties and
 
 > **Instance methods** are applied to instances of objects, where as **static methods** apply independently of any instance of an object. Generally, we’ll be using instance methods but static methods are useful for providing behavior independent of an instance. The [`Math`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) object is entirely static methods which we’ve used before.
 
-### Creating data types
+## Creating data types
 
 In many programming languages, the implementation of an ADT is known as a class. From a class, we can create instances of that class (our objects). To create a data type, you need to provide code which: 
 - A set of values (instance variables)
@@ -243,7 +110,7 @@ a.bite(); // Takes a bite of the apple.
 
 > **Exercise: How would we represent a Shape? It should contain a relationship to an existin DOM element, and let us modify its properties. (Precursor to your next assignment)**
 
-### Extending data types
+## Extending data types
 
 The beauty of object oriented programming is that we can subclass classes. For example, let’s say we have a `Fruit` class which all fruit has. Then, the `Apple` class can `extend` it, which means all the original properties and methods of the `Fruit` class can still be accessed. But we can then define custom behavior for our `Apple` class. This is super helpful if we want all our fruit to implement some shared behavior.
 
