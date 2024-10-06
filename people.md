@@ -12,7 +12,6 @@
 - Aviv Kestin
 - Kevin Li
 - Ruotong Lin
-- Ashley Panichapat
 - Irisema Ramirez
 - Hiya Singh
 - Aarthika Solayappan
