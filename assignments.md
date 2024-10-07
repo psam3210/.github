@@ -38,9 +38,7 @@ _Kudos to Princeton’s [COS126](https://www.cs.princeton.edu/courses/archive/fa
 
 **Due October 7**
 
-## Unreleased
-
-### A4: Garden (Pair)
+### [A4: Garden (Pair)](https://classroom.github.com/a/UTWbJCQ_)
 
 Create a virtual garden which implements the ability to render and place elements where you click your mouse. Inspiration for this assignment is based on the demo for [Put That There](https://www.youtube.com/watch?v=RyBEUyEtxQo).
 
@@ -49,6 +47,8 @@ You may choose to complete this assignment individually or with a partner.
 _You will learn: DOM and JS Relationship, Functions, Modularizing code, Event listeners_
 
 **Due October 21**
+
+## Unreleased
 
 ### A5: Sierpinski (Pair)
 
