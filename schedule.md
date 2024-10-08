@@ -356,7 +356,8 @@
       </td>
       <td>
         <p>
-          <strong>Final Reviews</strong>
+          <strong>Final Reviews</strong><br>
+          Guest Critic: <a href="https://brendaxlin.com/">Brenda Lin</a>
         </p>
       </td>
       <td>
