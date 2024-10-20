@@ -48,9 +48,7 @@ _You will learn: DOM and JS Relationship, Functions, Modularizing code, Event li
 
 **Due October 21**
 
-## Unreleased
-
-### A5: Sierpinski (Pair)
+### [A5: Sierpinski (Pair)](https://classroom.github.com/a/VtjhbDc0)
 
 Implement a Sierpinski triangle which renders in an HTML Canvas by recursively calling itself again and again. A user should be able to specify the level of detail (n) that the triangle renders at.
 

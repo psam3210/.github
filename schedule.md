@@ -198,6 +198,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
+          <a href="/topics/recursion-search-sort/">Search, and Sort</a><br>
           <a href="/topics/data/">Data and APIs</a>
         </p>
       </td>
