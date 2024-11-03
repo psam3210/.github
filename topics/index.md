@@ -10,7 +10,7 @@
 - [Data and APIs](/topics/data/)
 - [Recursion, Search, and Sort](/topics/recursion-search-sort/)
 - [Modular JavaScript](/topics/modular-js/)
-- [Vue](/topics/vue/)
+- [React](/topics/react/)
 
 ## Demos
 
