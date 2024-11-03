@@ -247,7 +247,8 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-           <a href="/topics/vue/">Vue</a>
+            <a href="https://developer.chrome.com/docs/extensions/get-started">Chrome Extensions</a><br>
+            <a href="/topics/react/">React</a>
         </p>
         <p>
           <strong>Q&A</strong>
