@@ -4,7 +4,7 @@
 - [JavaScript Basics](/topics/js-basics/)
 - [Loops and Arrays](/topics/loops-and-arrays/)
 - [Functions and Objects](/topics/functions-objects/)
-- [Event Listeners and Abstract Data Types](/topics/event-listeners-dom/)
+- [DOM and Event Listeners](/topics/dom-event-listeners/)
 - [Abstract Data Types](/topics/adt/)
 - [Shortcuts and Debugging](/topics/shortcuts-and-debugging/)
 - [Data and APIs](/topics/data/)
