@@ -303,7 +303,7 @@
         <p>
           <strong>Lecture</strong><br>
           <a href="/topics/shortcuts-and-debugging">Debugging Methods and Approaches</a><br><br>
-          <strong><a href="https://docs.google.com/spreadsheets/d/1SBqe9Y373SoCpklGboMHeRXfJ5BCkFSYankN1-lT3iw/edit?usp=sharing">Student Meetings</a></strong>
+          <strong>Present Sketches</strong>
         </p>
       </td>
       <td>
