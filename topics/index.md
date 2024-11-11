@@ -20,3 +20,4 @@
 
 - Fall 2022 [Exam](/midterms/f22.pdf), [Solutions](/midterms/f22-solutions.pdf)
 - Fall 2023 [Exam](/midterms/f23.pdf), [Solutions](/midterms/f23-solutions.pdf)
+- Fall 2024 [Exam](/midterms/f24.pdf)
