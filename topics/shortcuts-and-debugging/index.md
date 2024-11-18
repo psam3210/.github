@@ -5,6 +5,8 @@
 </figure>
 <br><br>
 
+> This lecture was originally written by Alex Silva ’24
+
 # Shortcuts and Debugging
 
 By nature, programmers tend to be quite lazy. As a result, a lot of mundane, annoying, or otherwise trivial tasks have been streamlined significantly. These shortcuts can greatly increase the speed at which you program and overall just make the experience "nicer" for you.
@@ -51,7 +53,7 @@ Also *cursor* refers to the flickering line that shows where you are currently t
 
 - `ALT/OPTION` + `UP ARROW` or `DOWN ARROW` = Takes the selected chunk of text and literally moves up and down.
 
-### Programmed Shortcuts (or Extensions)
+### Extensions
 
 Whereas before we were using keyboard shortcuts to streamline some processes, this section is looking at small bits of software that people have developed to make certain things easier. These *extensions* are typically added to whichever code editor you are using. If you are using VSCode, you can find extensions on the left-hand sign indicated by an icon of 4 blocks.
 
@@ -61,13 +63,13 @@ As with keyboard shortcuts, there are hundreds of extensions that you can downlo
 
   - This is an extension that you should already have but I'll put it here anyways. Live Server just allows you to open your web projects on an actual server on your local computer. This allows for much easier development as the website will auto-refresh when you save changes in your code editor and your website acts like an actual website rather than a static file.
 
-[**HTML Boilerplate**](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) by sidthesloth:
-
-  - In general, boilerplate refers to super basic and standard code that is just repeated across various websites. When setting up an `index.html`, it can be a little annoying to write out all the foundational HTML to get the site working. This extension remedies that be just creating a basic template to get you started that you can then easily input into any HTML file.
-
 [**Prettier**](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) by Prettier:
 
   - Prettier is just an extension that will format your code to be a lot more legible when you activate it. This is great when you have files with a lot of layered complexity and you want it to be sorted a bit nicer so you can read it more clearly.
+
+[**GitLens**](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) by GitKraken:
+
+  - GitLens is lets you see when lines of code were last modified and by who, based on an integration with an existing Git repository. Very useful to understand when something changed and why.
 
 ### Themes
 
@@ -85,16 +87,9 @@ Some popular (not default) themes include:
 
 - [One Monokai](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai)
 
-### Flux
-
-I wasn't really sure where to put this but some software I *extremely* recommend is the blue-light filter for your screen [flux](https://justgetflux.com/). It's free and pretty basic in that all it does is apply a orange/red tint to your screen to help with blue-light eyestrain.
-
-This is a *lifesaver* for chronic screen use (especially if you're a night owl programmer) and is just easy on your eyes. Of course, you can disable it for set periods of time if you're doing color-sensitive work.
-
-
 ## Debugging
 
-If you can remember from our earlier lecture, the word "bug" originated from when computers used vacuum tubes and actual insects would get stuck inside them, causing the computer to malfunction. 
+If you can remember from our earlier lectures, the word "bug" originated from when computers used vacuum tubes and actual insects would get stuck inside them, causing the computer to malfunction. 
 
 Nowadays, bugs refer to errors in our code that either cause it to not function as we expect/want or not even function at all. Debugging, is the process of solving those errors.
 
@@ -104,7 +99,7 @@ Now, there are some good methods to know when trying to debug that make the proc
 
 ### Console
 
-You must've used it a ton already, but the Javascript `console` is the premier tool for developers to debug their code. The main way we use it is by calling its `log()` method and printing out messages.
+You must’ve used it a ton already, but the Javascript `console` is the premier tool for developers to debug their code. The main way we use it is by calling its `log()` method and printing out messages.
 
 ```js
   console.log('hello');
@@ -190,6 +185,12 @@ Another useful feature is that you're also able to `console.log` references to H
   console.log(h1El);
 ```
 
+### Rubber Ducking
+
+Originally coined in 1999, [rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging) is a critical method of debugging used by nearly all programmers. It entails explaining, line by line, what a piece of code does to someone else (originally a rubber duck). 
+
+The idea is that in describing what each line is supposed to do and then readin what it actually does, any errors or differences between these two becomes apparent.
+
 ### What To Do If You Don't Know What To Do
 
 With the previous situation, we knew at which points we wanted our `console.log()` to be and could reasonably point out where a bug might occur. But what happens when we're doing something new and don't know where errors can occur?
@@ -224,11 +225,6 @@ Well for some reason, when we do this we just get a single output of our origina
   Fortunately (or unfortunately), we are in the future and we now have AI language models that are quite good at helping us code and debug our code. ChatGPT is great in that it offers more human-understandable language so that you're not bogged down by super-heavy technical terms. ChatGPT is also quite good at understand the specific context for your situation: You can paste in your error messages or even your entire code! 
 
   However, there are situations where ChatGPT may not be the best programmer. Using ChatGPT and trusting it completely can be quite tricky as the model is statistical, and there are just situations where it might not give you an entire optimal solution. In this type of situation, you really have to know your fundamentals to be sure that ChatGPT isn't giving you bad code.
-
-[**Phind**](https://www.phind.com/):
-  Phind is another AI tool that is sort of like a combination of the strengths of StackOverflow and ChatGPT. Phind, like ChatGPT, is a generic tool not specific to coding but what it does is offer summaries of search results. What's nice about it is that Phind links to all of the sources that it is summarizing in case you want to double check the code. 
-
-  This means that you get the nice, human-readability of ChatGPT (and free access to use GPT-4 😁) while being able to be a bit more confident about the source of the code as with StackOverflow. The links also enable you to do some further research in case you don't quite get the answer you're looking for or you're not quite sure what you're looking up.
 
 So after that, we now know that we were supposed to add an indication of where to split our string, which in our case is at the commas.
 
