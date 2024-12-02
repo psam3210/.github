@@ -58,4 +58,8 @@ Presenting your work is part of any design process. We’ll have roughly 12 minu
 
 A good rule of thumb to follow is that a stranger who has never seen your project before should come away from your presentation being able to ask questions as if they had worked with you on the project. I would highly suggest practicing your presentation once or twice with a classmate or friend.
 
+> #### A note on demos… 
+>
+> When Steve Jobs first introduced the iPhone, he had to walk through the demo in a very specific path or else [it would crash](https://www.nytimes.com/2013/10/06/magazine/and-then-steve-said-let-there-be-an-iphone.html). Similarly, you are in control of your demo. Present us a path that most compelling shares what your tool does (and skip over the features you didn’t have time to flesh out fully). This doesn’t mean you can just fake your entire project, but it should allow you more time to focus on the features you want.
+
 **In class, December 9**
