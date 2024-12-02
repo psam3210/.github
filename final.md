@@ -10,7 +10,15 @@ You may choose to complete this assignment individually or with a partner.
 
 Following your proposal, you will explore 3 different directions for your design and then implement a singular refined direction of your software in code.
 
-**Your final project proposal will serve as the homebase for links to all your other documentation, code, and links.**
+| Rubric        | 32 pts |
+| ------------- | ------ |
+| Proposal      | 2      |
+| Sketches      | 5      |
+| User Testing  | 5      |
+| Code          | 15     |
+| Presentation  | 5      |
+
+**Your final project proposal will serve as the homebase to all your other documentation, user testing, code, final presentation, and other links.**
 
 ### Part 1: Proposal
 
@@ -46,6 +54,8 @@ You should begin this in parallel to Part 2.1. Submit a link to your GitHub repo
 
 ### Final presentation
 
-Presenting your work is part of any design process. Put together a 10 minute presentation (you can use a deck if you want) which begins with the background of your project, includes your design sketches and user research, and finishes in a walk through of your live site.
+Presenting your work is part of any design process. We’ll have roughly 12 minutes per project including feedback. Put together a 6–8 minute presentation (you can use a deck if you want, but the main thing I care about is that you tell a cohesive story) which begins with the background of your project, includes your design sketches and user research, and finishes in a walk through of your live site. 
+
+A good rule of thumb to follow is that a stranger who has never seen your project before should come away from your presentation being able to ask questions as if they had worked with you on the project. I would highly suggest practicing your presentation once or twice with a classmate or friend.
 
 **In class, December 9**

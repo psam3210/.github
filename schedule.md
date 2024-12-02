@@ -341,7 +341,7 @@
       </td>
       <td>
         <p>
-          <strong>Working</strong>
+          <strong>Working in Class</strong>
         </p>
       </td>
       <td>
