@@ -1,6 +1,6 @@
 <br><br>
 <figure align="center">
-  <img src="https://www.moma.org/media/W1siZiIsIjU0MDA3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9ebbad0b653e3c0f" height="400">
+  <img src="https://www.moma.org/media/W1siZiIsIjU0MDA3MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=9ebbad0b653e3c0f" width="400">
   <figcaption>IBM, Diagram of Dynamic Random-Access Memory Chip (DRAM), 1984. <a href="https://www.moma.org/collection/works/4288">↗</a></figcaption>
 </figure>
 <br><br>
@@ -122,7 +122,7 @@ Looking at the API response, we’ll see a JSON formatted string which we can ha
 
 <br><br>
 <figure align="center">
-  <img src="open-meteo-api.png" height="400">
+  <img src="open-meteo-api.png" width="400">
   <figcaption>Response from Open Meteo.</figcaption>
 </figure>
 <br><br>
@@ -162,7 +162,7 @@ Let’s take a look Meg Miler’s Are.na channel, [Good Sign-Offs](https://www.a
 
 <br><br>
 <figure align="center">
-  <img src="api-response.png" height="400">
+  <img src="api-response.png" width="400">
   <figcaption>Response from Are.na for the below code.</figcaption>
 </figure>
 <br><br>

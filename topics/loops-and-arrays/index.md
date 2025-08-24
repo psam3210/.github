@@ -1,6 +1,6 @@
 <br><br>
 <figure align="center">
-  <img src="infinite-loop.png" height="400">
+  <img src="infinite-loop.png" width="400">
   <figcaption>An infinite loop, from <em>LaTeX. A document preparation system.</em> by Leslie Lamport. <a href="https://www.semanticscholar.org/paper/LATEX.-A-document-preparation-system.-User%27s-Guide-Lamport-Bibby/d235c1e898494912e08bb9cd437ed50a83ee335b">↗</a></figcaption>
 </figure>
 <br><br>

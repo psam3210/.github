@@ -1,6 +1,6 @@
 <br><br>
 <figure align="center">
-  <img src="https://www.moma.org/media/W1siZiIsIjI5MjQ3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=5dbbf9e4472deb7f" height="400">
+  <img src="https://www.moma.org/media/W1siZiIsIjI5MjQ3NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=5dbbf9e4472deb7f" width="600">
   <figcaption>Untitled, Donald Judd, 1991. <a href="https://www.moma.org/collection/works/93425">↗</a></figcaption>
 </figure>
 <br><br>
@@ -16,7 +16,7 @@ Recall that we spent a lot of time discussing scope earlier this class. As a rul
 
 <br><br>
 <figure align="center">
-  <img src="global.jpg" height="800">
+  <img src="global.jpg" width="600">
   <figcaption>Why global variables are bad — a meme.</figcaption>
 </figure>
 <br><br>

@@ -26,7 +26,7 @@ Either alone or with a partner, write a proposal (200 words or less) outlining a
 
 This will be due as a Google Doc, shared with me by the beginning of class over Slack. This Google Doc will serve as a home base for your project, and will link to your Figma sketches, prototype, user research, and website.
 
-**Due November 11**
+**Due November 6**
 
 ### Part 2: Sketches
 
@@ -34,7 +34,7 @@ Sketch on three different directions for your software. These should not only be
 
 Your submission should include 3 different sketches, with at least 4 different screens per sketch (a total of 12 artboards minimum). You should work in Figma, and link to your design file within your project Google Doc.
 
-**Due November 18**
+**Due November 13**
 
 ### Part 2.1: User Testing
 
@@ -42,15 +42,17 @@ Based on feedback from class, refine one direction to turn into a usable prototy
 
 Submit a link to your prototype Figma and to your notes from your user tests to your project Google Doc.
 
-**Due November 25**
+**Due November 20**
 
 ### Part 3: Code
 
-Time to build your software! Using either HTML/CSS/JS, or a more robust library like Vue, turn your designs into code. You should create a project repository to keep track of your code on GitHub and, if working with a partner, both have commits in your repository. Your final project should be hosted as a website on GitHub pages or somewhere else.
+**You should begin this in parallel to Part 2.1.**
 
-You should begin this in parallel to Part 2.1. Submit a link to your GitHub repository and to your website URL in your project Google Doc.
+Time to build your software! Using either HTML/CSS/JS, or a more robust library like React, turn your designs into code. You should create a project repository to keep track of your code on GitHub and, if working with a partner, both have commits in your repository. Your final project should be hosted as a website on GitHub pages or somewhere else.
 
-**Due December 9**
+Submit a link to your GitHub repository and to your website URL in your project Google Doc.
+
+**Due December 4**
 
 ### Final presentation
 
@@ -62,4 +64,4 @@ A good rule of thumb to follow is that a stranger who has never seen your projec
 >
 > When Steve Jobs first introduced the iPhone, he had to walk through the demo in a very specific path or else [it would crash](https://www.nytimes.com/2013/10/06/magazine/and-then-steve-said-let-there-be-an-iphone.html). Similarly, you are in control of your demo. Present us a path that most compelling shares what your tool does (and skip over the features you didn’t have time to flesh out fully). This doesn’t mean you can just fake your entire project, but it should allow you more time to focus on the features you want.
 
-**In class, December 9**
+**In class, December 4**

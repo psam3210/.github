@@ -2,7 +2,10 @@
 
 Assignments for this course will appear below.
 
-### [A1: Hello, World](https://classroom.github.com/a/m5UirBvV)
+---
+**Not yet released**
+
+### [A1: Hello, World](#)
 
 You’ll complete a series of 3 quick exercises intended to familiarize yourself with JavaScript and its syntax. These exercises are more detailed in the assignment `README`, but they are as follows:
 
@@ -12,9 +15,9 @@ You’ll complete a series of 3 quick exercises intended to familiarize yourself
 
 _You will learn: Git, JavaScript, Variables, Coding style, String interpolation, Console_
 
-**Due September 16**
+**Due September 11**
 
-### [A2: Loops](https://classroom.github.com/a/FoLEQ_Mj)
+### [A2: Loops](#)
 
 Using loops, write code that accomplishes the following exercises:
 
@@ -24,9 +27,9 @@ Using loops, write code that accomplishes the following exercises:
 
 _You will learn: Data manipulation, Conditional logic, Loops, Arrays_
 
-**Due September 23**
+**Due September 18**
 
-### [A3: N-Body (Pair)](https://classroom.github.com/a/rGdhjGdu)
+### [A3: N-Body (Pair)](#)
 
 Implement an n-body simulation, which keeps track of the movements of the inner planets of our solar system. You’ll be provided an initial set of values and be responsible for updating the position, velocity, and acceleration of the planets using linear approximation.
 
@@ -34,11 +37,11 @@ You may choose to complete this assignment individually or with a partner.
 
 _You will learn: Loops, Arrays, JSON_
 
-_Kudos to Princeton’s [COS126](https://www.cs.princeton.edu/courses/archive/fall19/cos126/assignments/nbody/) for the source material for this assignment._
+_Kudos to Princeton’s [COS126](https://www.cs.princeton.edu/courses/archive/fall18/cos126/assignments/nbody/) for the source material for this assignment._
 
-**Due October 7**
+**Due October 2**
 
-### [A4: Garden (Pair)](https://classroom.github.com/a/UTWbJCQ_)
+### [A4: Garden (Pair)](#)
 
 Create a virtual garden which implements the ability to render and place elements where you click your mouse. Inspiration for this assignment is based on the demo for [Put That There](https://www.youtube.com/watch?v=RyBEUyEtxQo).
 
@@ -46,9 +49,9 @@ You may choose to complete this assignment individually or with a partner.
 
 _You will learn: DOM and JS Relationship, Functions, Modularizing code, Event listeners_
 
-**Due October 21**
+**Due October 16**
 
-### [A5: Sierpinski (Pair)](https://classroom.github.com/a/VtjhbDc0)
+### [A5: Sierpinski (Pair)](#)
 
 Implement a Sierpinski triangle which renders in an HTML Canvas by recursively calling itself again and again. A user should be able to specify the level of detail (n) that the triangle renders at.
 
@@ -56,4 +59,4 @@ You may choose to complete this assignment individually or with a partner.
 
 _You will learn: Recursion, Canvas_
 
-**Due November 4**
+**Due October 30**

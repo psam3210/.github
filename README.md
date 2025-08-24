@@ -1,7 +1,7 @@
 ![Plugin icon - 2](https://user-images.githubusercontent.com/207651/186977711-6ffcf270-021a-45ab-88ea-476c54c90643.png)
 
-Mondays, 9:00 am – 11:40 am  
-Parsons 2 W 13th, Room 401
+Thursdays, 4:00 pm – 6:40 pm  
+Parsons 2 W 13th, Room 1100
 
 **Instructor**  
 Eric Li  
@@ -13,15 +13,14 @@ Eric Li
 - [Assignments](/assignments)
 - [Final Project](/final)
 - [Topics](/topics/)
-- [People](/people)
 
 **External Links**
 
 - [GitHub](https://github.com/psam3210)
 - [Slack](https://cdstudiojavascript.slack.com/)
-- [Zoom](https://NewSchool.zoom.us/j/95473632242?pwd=VvbDTg1azZVEFaaRixxSHhW4tDM22q.1)
-- [Recordings](https://drive.google.com/drive/folders/1iZoaIYQrujzl6hWanpyhaeRt4JQFvYf8?usp=drive_link)
-- [Syllabus](https://docs.google.com/document/d/1iQVH5JBxCcPmL57vMYzEN52hvTsOVA0kDDLXvYJXYOo/edit?usp=sharing)
+- [Zoom](https://NewSchool.zoom.us/j/97178264902?pwd=MtZtYwYIHG5Wa8QoPXzibagMpXPxHi.1)
+- [Recordings](https://drive.google.com/drive/folders/1OlKhHLIC71FjVb4PGOmplsn7ywhL9x3i?usp=sharing)
+- [Syllabus](https://docs.google.com/document/d/1hJmMhfrBixdB943hU4uOVOaTprxG7H1Nl7SXReP2_D0/edit?usp=sharing)
 
 ## Description
 
@@ -82,7 +81,7 @@ I will have limited availability outside of our class time, and won’t keep sch
 
 ### Additional technical help
 
-For additional specific technical instruction and questions, Parsons has dedicated CD-program tutors available to help students with HTML, CSS, and JavaScript, as well as offering general design critiques and feedback. The drop-in schedules are available in the [CD@Parsons](https://cdparsons.glideapp.io) app under “Make & Remake.”
+For additional specific technical instruction and questions, Parsons has dedicated CD-program tutors available to help students with HTML, CSS, and JavaScript, as well as offering general design critiques and feedback. 
 
 As CD-program tutors are available only a limited number of hours per week, it is advisable to start on your projects early and seek help early to avoid the usual end of project/semester rush for additional help.
 
@@ -96,7 +95,11 @@ You have peers who have taken this course before — you are welcome to ask them
 
 #### A Note on ChatGPT
 
-You may _not_ use ChatGPT to explicitly complete any of our programming assignments — the goal of these assignments are to teach you the fundamentals of computer science and using a large language model to do the work will prevent you from actually learning any of the concepts. However, I welcome its usage as a tool for understanding concepts covered in class, as well as for your final project. I view ChatGPT like any other resource (MDN, StackOverflow, etc) — you need to learn what to ask it before it actually becomes useful.
+**ChatGPT is a tool, like Figma, Adobe, or GitHub. The efficacy of these tools depends on first and foremost recognizing when it is correct.** 
+
+You need to learn what to ask it, and recognize the quality of its response, before it actually becomes useful.
+
+You may _not_ use ChatGPT to explicitly complete any of our programming assignments — the goal of these assignments are to teach you the fundamentals of computer science and using a large language model to do the work will prevent you from actually learning any of the concepts. However, I welcome its usage as a tool for understanding concepts covered in class, as well as for your final project. 
 
 The goal of this course is to ensure that you have a solid understanding of the fundamentals of programming. By engaging with ChatGPT or another LLM based tool, you are only doing yourself a disservice.
 
@@ -110,4 +113,4 @@ Screen recordings of our sessions will be made available for students to referen
 
 ### Slack
 
-We will be using Slack as our primary form of communication with each other. There are channels for general questions, as well as for each individual assignment and students are encouraged to use Slack as an open forum for communicating with each other and with myself. Students can also use the OpenSay app to anonymously ask questions.
+We will be using Slack as our primary form of communication with each other. There are channels for general questions, as well as for each individual assignment and students are encouraged to use Slack as an open forum for communicating with each other and with myself. 

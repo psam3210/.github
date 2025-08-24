@@ -12,9 +12,14 @@
 - [Modular JavaScript](/topics/modular-js/)
 - [React](/topics/react/)
 
+## Workshops
+
+
 ## Demos
 
 - [Git](/topics/git)
+
+
 
 ## Past Midterms
 

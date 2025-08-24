@@ -1,6 +1,6 @@
 <br><br>
 <figure align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Droste_Cacao_Alcalinise_blikje%2C_foto4.JPG" height="400">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Droste_Cacao_Alcalinise_blikje%2C_foto4.JPG" width="400">
   <figcaption>1904 Droste cocoa tin, designed by Jan Musset, the Droste effect is a form of visual recursion. <a href="https://en.wikipedia.org/wiki/Recursion">↗</a></figcaption>
 </figure>
 <br><br>
@@ -169,7 +169,7 @@ This works well enough for small sets of data, but imagine if you are a company 
 
 <br><br>
 <figure align="center">
-  <img src="big-0.jpg" height="400">
+  <img src="big-0.jpg" width="400">
   <figcaption>We often use Big-O to determine how efficient our code is.</figcaption>
 </figure>
 <br><br>
@@ -262,7 +262,7 @@ What is the time complexity of binary search?
 
 <br><br>
 <figure align="center">
-  <img src="bst.png" height="400">
+  <img src="bst.png" width="400">
   <figcaption>Visualization of binary search in a tree format.</figcaption>
 </figure>
 <br><br>
