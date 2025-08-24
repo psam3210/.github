@@ -10,8 +10,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>1 — Virtual</strong><br>
-          Aug 26
+          <strong>1</strong><br>
+          Aug 28
         </p>
       </td>
       <td>
@@ -23,6 +23,10 @@
         <p>
           <strong>Lecture</strong><br>
           <a href="/topics/what-is-javascript/">What is JavaScript, anyways?</a>
+        </p>
+        <p>
+          <strong>Demo</strong><br>
+          <a href="/topics/git/">Git</a>
         </p>
       </td>
       <td>
@@ -45,31 +49,12 @@
       </td>
       <td>
         <p>
-          <strong>Labor Day — No Class</strong>
-        </p>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr valign="top">
-      <td>
-        <p>
-          <strong>3</strong><br>
-          Sept 9
-        </p>
-      </td>
-      <td>
-        <p>
           <strong>Discuss</strong><br>
           What is code?
         </p>
         <p>
           <strong>Lecture</strong><br>
           <a href="/topics/js-basics/">JavaScript Basics</a>
-        </p>
-        <p>
-          <strong>Demo</strong><br>
-          <a href="/topics/git/">Git</a>
         </p>
       </td>
       <td>
@@ -82,8 +67,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>4</strong><br>
-          Sept 16
+          <strong>3</strong><br>
+          Sept 11
         </p>
         <p>
           <strong>Due</strong><br>
@@ -106,8 +91,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>5</strong><br>
-          Sept 23
+          <strong>4</strong><br>
+          Sept 18
         </p>
         <p>
           <strong>Due</strong><br>
@@ -130,8 +115,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>6</strong><br>
-          Sept 30
+          <strong>5 — Virtual</strong><br>
+          Sept 25
         </p>
       </td>
       <td>
@@ -147,8 +132,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>7</strong><br>
-          Oct 7
+          <strong>6</strong><br>
+          Oct 2
         </p>
         <p>
           <strong>Due</strong><br>
@@ -171,14 +156,14 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>8</strong><br>
-          Oct 14
+          <strong>7</strong><br>
+          Oct 9
         </p>
       </td>
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/recursion-search-sort/">Recursion, Search, and Sort</a>
+          <a href="/topics/recursion-search-sort/">Recursion</a>
         </p>
       </td>
       <td>
@@ -187,8 +172,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>9</strong><br>
-          Oct 21
+          <strong>8</strong><br>
+          Oct 16
         </p>
         <p>
           <strong>Due</strong><br>
@@ -211,8 +196,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>10</strong><br>
-          Oct 28
+          <strong>9</strong><br>
+          Oct 23
         </p>
       </td>
       <td>
@@ -236,8 +221,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>11</strong><br>
-          Nov 4
+          <strong>10</strong><br>
+          Oct 30
         </p>
         <p>
           <strong>Due</strong><br>
@@ -247,8 +232,7 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-            <a href="https://developer.chrome.com/docs/extensions/get-started">Chrome Extensions</a><br>
-            <a href="/topics/react/">React</a>
+            <a href="https://developer.chrome.com/docs/extensions/get-started">Chrome Extensions</a>
         </p>
         <p>
           <strong>Q&A</strong>
@@ -264,8 +248,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>12</strong><br>
-          Nov 11
+          <strong>11</strong><br>
+          Nov 6
         </p>
         <p>
           <strong>Due</strong><br>
@@ -277,8 +261,7 @@
           <strong>Midterm</strong><br>
         </p>
         <p>
-          <strong>Lecture</strong><br>
-          <a href="/topics/react/">React</a>
+          <strong>Reviews</strong>
         </p>
       </td>
       <td>
@@ -291,8 +274,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>13 — Virtual</strong><br>
-          Nov 18
+          <strong>12</strong><br>
+          Nov 13
         </p>
         <p>
           <strong>Due</strong><br>
@@ -302,7 +285,8 @@
       <td>
         <p>
           <strong>Lecture</strong><br>
-          <a href="/topics/shortcuts-and-debugging">Debugging Methods and Approaches</a><br><br>
+          <a href="/topics/react/">React</a><br>
+          <br>
           <strong>Present Sketches</strong>
         </p>
       </td>
@@ -316,8 +300,8 @@
     <tr valign="top">
       <td>
         <p>
-          <strong>14</strong><br>
-          Nov 25
+          <strong>13</strong><br>
+          Nov 20
         </p>
         <p>
           <strong>Due</strong><br>
@@ -326,7 +310,22 @@
       </td>
       <td>
         <p>
-          <strong>No Class</strong>
+          <strong>Reviews</strong>
+        </p>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td>
+        <p>
+          <strong>14</strong><br>
+          Nov 27
+        </p>
+      </td>
+      <td>
+        <p>
+          <strong>Thanksgiving Break — No Class</strong>
         </p>
       </td>
       <td>
@@ -336,12 +335,16 @@
       <td>
         <p>
           <strong>15</strong><br>
-          Dec 2
+          Dec 4
+        </p>
+        <p>
+          <strong>Due</strong><br>
+          Final Project
         </p>
       </td>
       <td>
         <p>
-          <strong>Working in Class</strong>
+          <strong>Final Reviews</strong>
         </p>
       </td>
       <td>
@@ -351,17 +354,12 @@
       <td>
         <p>
           <strong>16</strong><br>
-          Dec 9
-        </p>
-        <p>
-          <strong>Due</strong><br>
-          Final Project
+          Dec 11
         </p>
       </td>
       <td>
         <p>
-          <strong>Final Reviews</strong><br>
-          Guest Critic: <a href="https://brendaxlin.com/">Brenda Lin</a>
+          <strong>Final Reviews</strong>
         </p>
       </td>
       <td>
