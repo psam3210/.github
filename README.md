@@ -43,6 +43,7 @@ By the end of the semester, students should be able to:
 - Create a good environment where we can help each other and feel comfortable getting through questions either in Slack or elsewhere.
 - Show up for each other in group projects.
 - Respect the class environment — if your phone rings, step out so as not to disrupt the class. If people are speaking, we give them the room — laptops closed and undivided attention.
+- When giving feedback, aim to provide three pieces of supportive and positive feedback, as well as one piece of constructive feedback.
 
 ## Grading
 
