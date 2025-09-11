@@ -14,10 +14,7 @@ _You will learn: Git, JavaScript, Variables, Coding style, String interpolation,
 
 **Due September 11**
 
----
-**Not yet released**
-
-### [A2: Loops](#)
+### [A2: Loops](https://classroom.github.com/a/TX9d5vxY)
 
 Using loops, write code that accomplishes the following exercises:
 
@@ -28,6 +25,9 @@ Using loops, write code that accomplishes the following exercises:
 _You will learn: Data manipulation, Conditional logic, Loops, Arrays_
 
 **Due September 18**
+
+---
+**Not yet released**
 
 ### [A3: N-Body (Pair)](#)
 
