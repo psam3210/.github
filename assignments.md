@@ -26,10 +26,7 @@ _You will learn: Data manipulation, Conditional logic, Loops, Arrays_
 
 **Due September 18**
 
----
-**Not yet released**
-
-### [A3: N-Body (Pair)](#)
+### [A3: N-Body (Pair)](https://classroom.github.com/a/DvEnCmLc)
 
 Implement an n-body simulation, which keeps track of the movements of the inner planets of our solar system. You’ll be provided an initial set of values and be responsible for updating the position, velocity, and acceleration of the planets using linear approximation.
 
@@ -40,6 +37,9 @@ _You will learn: Loops, Arrays, JSON_
 _Kudos to Princeton’s [COS126](https://www.cs.princeton.edu/courses/archive/fall18/cos126/assignments/nbody/) for the source material for this assignment._
 
 **Due October 2**
+
+---
+**Not yet released**
 
 ### [A4: Garden (Pair)](#)
 
