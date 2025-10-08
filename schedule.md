@@ -157,7 +157,7 @@
       <td>
         <p>
           <strong>7</strong><br>
-          Oct 9
+          Oct 9 
         </p>
       </td>
       <td>
@@ -173,7 +173,7 @@
       <td>
         <p>
           <strong>8</strong><br>
-          Oct 16
+          Oct 16 — Virtual
         </p>
         <p>
           <strong>Due</strong><br>
