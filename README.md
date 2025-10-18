@@ -13,6 +13,8 @@ Eric Li
 - [Assignments](/assignments)
 - [Final Project](/final)
 - [Topics](/topics/)
+<br /><br />
+- [Gardens](/gardens)
 
 **External Links**
 
