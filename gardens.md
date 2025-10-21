@@ -11,3 +11,4 @@
 <img src="garden_images/09.png">
 <img src="garden_images/10.png">
 <img src="garden_images/11.png">
+<img src="garden_images/12.png">
