@@ -21,7 +21,8 @@
 
 - Fall 2022 [Exam](/midterms/f22.pdf), [Solutions](/midterms/f22-solutions.pdf)
 - Fall 2023 [Exam](/midterms/f23.pdf), [Solutions](/midterms/f23-solutions.pdf)
-- Fall 2024 [Exam](/midterms/f24.pdf) , [Solutions](/midterms/f24-solutions.pdf)
+- Fall 2024 [Exam](/midterms/f24.pdf), [Solutions](/midterms/f24-solutions.pdf)
+- Fall 2025 [Exam](/midterms/f25.pdf), [Solutions](/midterms/f25-solutions.pdf)
 
 ## Additional Resources
 - [CodingJS](https://the-winter.github.io/codingjs/)
