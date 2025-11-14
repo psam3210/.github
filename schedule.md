@@ -344,7 +344,7 @@
       </td>
       <td>
         <p>
-          <strong>Final Reviews</strong>
+          <strong>Final Reviews, with <a href="https://stephanieschapowal.com/">Stephanie Schapowal</a></strong>
         </p>
       </td>
       <td>
@@ -359,7 +359,7 @@
       </td>
       <td>
         <p>
-          <strong>Final Reviews</strong>
+          <strong>No Class 🙂</strong>
         </p>
       </td>
       <td>
